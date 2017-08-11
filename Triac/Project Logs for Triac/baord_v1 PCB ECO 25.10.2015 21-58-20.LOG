@@ -1,0 +1,62 @@
+Added Component: Designator=C1(RAD-0.4)
+Added Component: Designator=D1(0805_1)
+Added Component: Designator=P1(Pin_header2)
+Added Component: Designator=P2(Pin_header2)
+Added Component: Designator=P3(Pin_header3_2.54)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(TO-220-AB)
+Added Component: Designator=R1(0805_1)
+Added Component: Designator=R2(1206)
+Added Component: Designator=R3(0805_1)
+Added Component: Designator=R4(2512)
+Added Component: Designator=R5(AXIAL-0.4)
+Added Component: Designator=R6(2512)
+Added Component: Designator=U1(DIP-6)
+Added Pin To Net: NetName=FASE Pin=P1-2
+Added Pin To Net: NetName=FASE Pin=Q2-2
+Added Pin To Net: NetName=FASE Pin=R4-2
+Added Pin To Net: NetName=FASE Pin=R5-2
+Added Net: Name=FASE
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LOAD Pin=C1-1
+Added Pin To Net: NetName=LOAD Pin=P2-2
+Added Pin To Net: NetName=LOAD Pin=Q2-1
+Added Pin To Net: NetName=LOAD Pin=R6-1
+Added Net: Name=LOAD
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R5-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R6-2
+Added Pin To Net: NetName=NetQ2_3 Pin=U1-4
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-6
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NEUTRAL Pin=P1-1
+Added Pin To Net: NetName=NEUTRAL Pin=P2-1
+Added Net: Name=NEUTRAL
+Added Pin To Net: NetName=SIGNAL Pin=P3-1
+Added Pin To Net: NetName=SIGNAL Pin=R1-1
+Added Net: Name=SIGNAL
+Added Pin To Net: NetName=VCC Pin=P3-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Net: Name=VCC
+Added Class: Name=scheme
+Added Room: Name=scheme

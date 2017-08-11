@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VCC Pin=U1-5
+Change Component Footprint: Designator=P1 Old Footprint=Pin_header_2P_2.54_M New Footprint=Pin_header_3P_2.54_M
+Change Component Comment : Designator=P1 Old Comment=Pin header 2 New Comment=Pin header 3
+Added Component: Designator=P4(Pin_header_3P_2.54_M)
+Added Component: Designator=P5(Pin_header_4P_2.54_M)
+Added Component: Designator=U2(SOT95P285X110-6N)
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-5
+Added Pin To Net: NetName=+5 Pin=P1-3
+Added Pin To Net: NetName=+5 Pin=P4-3
+Added Net: Name=+5
+Added Pin To Net: NetName=COMM Pin=P5-2
+Added Pin To Net: NetName=COMM Pin=U2-4
+Added Net: Name=COMM
+Added Pin To Net: NetName=IO1 Pin=P5-4
+Added Pin To Net: NetName=IO1 Pin=U2-3
+Added Net: Name=IO1
+Added Pin To Net: NetName=IO2 Pin=P5-3
+Added Pin To Net: NetName=IO2 Pin=U2-1
+Added Net: Name=IO2
+Added Pin To Net: NetName=IS Pin=P5-1
+Added Pin To Net: NetName=IS Pin=U2-6
+Added Net: Name=IS
+Added Pin To Net: NetName=VDD Pin=P4-2
+Added Pin To Net: NetName=VDD Pin=U1-5
+Added Net: Name=VDD
+Added Member To Class: ClassName=buttons_leds_buffer Member=Component P4 Pin header 3
+Added Member To Class: ClassName=buttons_leds_buffer Member=Component P5 Pin header 4
+Added Member To Class: ClassName=buttons_leds_buffer Member=Component U2 74LVC1G3157
+Added Room: Name=buttons_leds_buffer

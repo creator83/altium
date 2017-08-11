@@ -1,0 +1,7 @@
+Added Component: Designator=P6(Pin_header_4P_2.54_M)
+Added Pin To Net: NetName=CSFLASH Pin=P6-1
+Added Pin To Net: NetName=SCKFLASH Pin=P6-2
+Added Pin To Net: NetName=MOSIFLASH Pin=P6-3
+Added Pin To Net: NetName=MISOFLASH Pin=P6-4
+Added Member To Class: ClassName=coffeeController Member=Component P6 Pin header 4
+Added Room: Name=coffeeController

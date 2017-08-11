@@ -1,0 +1,26 @@
+Added Component: Designator=P9(Pin_header_4P_2.54_M)
+Added Component: Designator=S2(TAKT-KEY - 12)
+Added Component: Designator=S3(TAKT-KEY - 12)
+Added Component: Designator=S4(TAKT-KEY - 12)
+Added Pin To Net: NetName=BUTTON1 Pin=P9-1
+Added Pin To Net: NetName=BUTTON1 Pin=S4-2
+Added Pin To Net: NetName=BUTTON1 Pin=S4-2
+Added Net: Name=BUTTON1
+Added Pin To Net: NetName=BUTTON2 Pin=P9-2
+Added Pin To Net: NetName=BUTTON2 Pin=S3-2
+Added Pin To Net: NetName=BUTTON2 Pin=S3-2
+Added Net: Name=BUTTON2
+Added Pin To Net: NetName=BUTTON3 Pin=P9-3
+Added Pin To Net: NetName=BUTTON3 Pin=S2-2
+Added Pin To Net: NetName=BUTTON3 Pin=S2-2
+Added Net: Name=BUTTON3
+Added Pin To Net: NetName=TOGND Pin=P9-4
+Added Pin To Net: NetName=TOGND Pin=S2-1
+Added Pin To Net: NetName=TOGND Pin=S2-1
+Added Pin To Net: NetName=TOGND Pin=S3-1
+Added Pin To Net: NetName=TOGND Pin=S3-1
+Added Pin To Net: NetName=TOGND Pin=S4-1
+Added Pin To Net: NetName=TOGND Pin=S4-1
+Added Net: Name=TOGND
+Added Class: Name=buttons
+Added Room: Name=buttons

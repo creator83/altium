@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SCL Pin=U5-20
+Removed Pin From Net: NetName=SDA Pin=U5-21
+Removed Pin From Net: NetName=LIGHT Pin=U5-23
+Removed Pin From Net: NetName=HEATER Pin=U5-24
+Change Component Footprint: Designator=C5 Old Footprint=0805_C New Footprint=0603_C
+Added Pin To Net: NetName=HEATER Pin=U5-20
+Added Pin To Net: NetName=LIGHT Pin=U5-21
+Added Pin To Net: NetName=SCL Pin=U5-22
+Added Pin To Net: NetName=SDA Pin=U5-23
+Added Room: Name=coffeeController

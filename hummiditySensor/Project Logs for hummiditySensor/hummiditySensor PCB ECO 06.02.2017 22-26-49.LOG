@@ -1,0 +1,97 @@
+Added Component: Designator=C1(0603_C)
+Added Component: Designator=C2(0603_C)
+Added Component: Designator=C3(0603_C)
+Added Component: Designator=D1(LED_OSRAM_LGR971)
+Added Component: Designator=D2(LED_OSRAM_LGR971)
+Added Component: Designator=D3(DIOM5326X230N)
+Added Component: Designator=P1(Pin_header_4P_2.54_M)
+Added Component: Designator=P2(RF_pin_header_4_2)
+Added Component: Designator=P3(Pin_header_3P_2.54_M)
+Added Component: Designator=P4(Pin_header_2P_2.54_M)
+Added Component: Designator=P5(PIN_HEADER_2_5.08)
+Added Component: Designator=R1(0603_C)
+Added Component: Designator=R2(0603_C)
+Added Component: Designator=R3(0603_C)
+Added Component: Designator=R4(0603_C)
+Added Component: Designator=T1(POWER SUPPLY)
+Added Component: Designator=U1(SOP65P640X120-20N)
+Added Pin To Net: NetName=AC1 Pin=P5-1
+Added Pin To Net: NetName=AC1 Pin=T1-1
+Added Net: Name=AC1
+Added Pin To Net: NetName=AC2 Pin=P5-2
+Added Pin To Net: NetName=AC2 Pin=T1-2
+Added Net: Name=AC2
+Added Pin To Net: NetName=CE Pin=P2-3
+Added Pin To Net: NetName=CE Pin=U1-13
+Added Net: Name=CE
+Added Pin To Net: NetName=CS Pin=P2-4
+Added Pin To Net: NetName=CS Pin=R4-1
+Added Pin To Net: NetName=CS Pin=U1-14
+Added Net: Name=CS
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=T1-4
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Net: Name=GND
+Added Pin To Net: NetName=IRQ Pin=P2-8
+Added Pin To Net: NetName=IRQ Pin=U1-5
+Added Net: Name=IRQ
+Added Pin To Net: NetName=LED1 Pin=R1-1
+Added Pin To Net: NetName=LED1 Pin=U1-1
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R3-1
+Added Pin To Net: NetName=LED2 Pin=U1-2
+Added Net: Name=LED2
+Added Pin To Net: NetName=MISO Pin=P2-7
+Added Pin To Net: NetName=MISO Pin=U1-17
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P2-6
+Added Pin To Net: NetName=MOSI Pin=U1-16
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=T1-3
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=RESET Pin=P3-1
+Added Pin To Net: NetName=RESET Pin=R2-1
+Added Pin To Net: NetName=RESET Pin=U1-4
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=P2-5
+Added Pin To Net: NetName=SCK Pin=U1-15
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=P1-2
+Added Pin To Net: NetName=SCL Pin=U1-12
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-1
+Added Pin To Net: NetName=SDA Pin=U1-11
+Added Net: Name=SDA
+Added Pin To Net: NetName=SWIM Pin=P3-2
+Added Pin To Net: NetName=SWIM Pin=U1-18
+Added Net: Name=SWIM
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=D3-1
+Added Pin To Net: NetName=VCC Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=U1-9
+Added Net: Name=VCC
+Added Class: Name=hummiditySensor
+Added Room: Name=hummiditySensor

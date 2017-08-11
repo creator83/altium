@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=SWDIO Pin=P6-6
+Removed Pin From Net: NetName=SWCLK Pin=P6-7
+Removed Pin From Net: NetName=TDI Pin=P6-8
+Change Component DesignItemId : Designator=P6 Old DesignItemId=Pin header 8 New DesignItemId=Pin header 2
+Change Component Footprint: Designator=P6 Old Footprint=Pin_header8_2.54 New Footprint=Pin_header2_2.54
+Change Component Comment : Designator=P6 Old Comment=Pin header 8 New Comment=Pin header 2
+Added Component: Designator=P10(Pin_header10_2.54)
+Added Pin To Net: NetName=VDD Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=SWDIO Pin=P10-6
+Added Pin To Net: NetName=SWCLK Pin=P10-7
+Added Pin To Net: NetName=TDI Pin=P10-8
+Added Pin To Net: NetName=GND Pin=P10-10
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=U1-41
+Added Net: Name=NetP10_1
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=U1-42
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP10_3 Pin=U1-43
+Added Net: Name=NetP10_3
+Added Pin To Net: NetName=NetP10_4 Pin=P10-4
+Added Pin To Net: NetName=NetP10_4 Pin=U1-44
+Added Net: Name=NetP10_4
+Added Pin To Net: NetName=NetP10_5 Pin=P10-5
+Added Pin To Net: NetName=NetP10_5 Pin=U1-45
+Added Net: Name=NetP10_5
+Added Pin To Net: NetName=NetP10_9 Pin=P10-9
+Added Pin To Net: NetName=NetP10_9 Pin=U1-54
+Added Net: Name=NetP10_9
+Added Member To Class: ClassName=stm32f103rb_simple Member=Component P10 Pin header 10
+Added Room: Name=stm32f103rb_simple

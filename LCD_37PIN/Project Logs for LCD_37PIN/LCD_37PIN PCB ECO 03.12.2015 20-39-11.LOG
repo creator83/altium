@@ -1,0 +1,108 @@
+Added Component: Designator=P1(Pin_header16_2.54)
+Added Component: Designator=P2(Pin_header5_2.54)
+Added Component: Designator=P3(Pin_header4_2.54)
+Added Component: Designator=P4(Pin_header37_0.8)
+Added Component: Designator=P5(Pin_header5_2.54)
+Added Component: Designator=R1(1206)
+Added Pin To Net: NetName=+5 Pin=P5-3
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Net: Name=+5
+Added Pin To Net: NetName=CS Pin=P2-5
+Added Pin To Net: NetName=CS Pin=P4-7
+Added Net: Name=CS
+Added Pin To Net: NetName=DB0 Pin=P1-1
+Added Pin To Net: NetName=DB0 Pin=P4-1
+Added Net: Name=DB0
+Added Pin To Net: NetName=DB1 Pin=P1-2
+Added Pin To Net: NetName=DB1 Pin=P4-2
+Added Net: Name=DB1
+Added Pin To Net: NetName=DB2 Pin=P1-3
+Added Pin To Net: NetName=DB2 Pin=P4-3
+Added Net: Name=DB2
+Added Pin To Net: NetName=DB3 Pin=P1-4
+Added Pin To Net: NetName=DB3 Pin=P4-4
+Added Net: Name=DB3
+Added Pin To Net: NetName=DB4 Pin=P1-5
+Added Pin To Net: NetName=DB4 Pin=P4-22
+Added Net: Name=DB4
+Added Pin To Net: NetName=DB5 Pin=P1-6
+Added Pin To Net: NetName=DB5 Pin=P4-35
+Added Net: Name=DB5
+Added Pin To Net: NetName=DB6 Pin=P1-7
+Added Pin To Net: NetName=DB6 Pin=P4-36
+Added Net: Name=DB6
+Added Pin To Net: NetName=DB7 Pin=P1-8
+Added Pin To Net: NetName=DB7 Pin=P4-37
+Added Net: Name=DB7
+Added Pin To Net: NetName=DB8 Pin=P1-9
+Added Pin To Net: NetName=DB8 Pin=P4-23
+Added Net: Name=DB8
+Added Pin To Net: NetName=DB9 Pin=P1-10
+Added Pin To Net: NetName=DB9 Pin=P4-24
+Added Net: Name=DB9
+Added Pin To Net: NetName=DB10 Pin=P1-11
+Added Pin To Net: NetName=DB10 Pin=P4-25
+Added Net: Name=DB10
+Added Pin To Net: NetName=DB11 Pin=P1-12
+Added Pin To Net: NetName=DB11 Pin=P4-26
+Added Net: Name=DB11
+Added Pin To Net: NetName=DB12 Pin=P1-13
+Added Pin To Net: NetName=DB12 Pin=P4-27
+Added Net: Name=DB12
+Added Pin To Net: NetName=DB13 Pin=P1-14
+Added Pin To Net: NetName=DB13 Pin=P4-28
+Added Net: Name=DB13
+Added Pin To Net: NetName=DB14 Pin=P1-15
+Added Pin To Net: NetName=DB14 Pin=P4-29
+Added Net: Name=DB14
+Added Pin To Net: NetName=DB15 Pin=P1-16
+Added Pin To Net: NetName=DB15 Pin=P4-30
+Added Net: Name=DB15
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-17
+Added Pin To Net: NetName=GND Pin=P4-18
+Added Pin To Net: NetName=GND Pin=P4-19
+Added Pin To Net: NetName=GND Pin=P4-20
+Added Pin To Net: NetName=GND Pin=P4-34
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Net: Name=GND
+Added Pin To Net: NetName=IM0 Pin=P4-11
+Added Pin To Net: NetName=IM0 Pin=P5-2
+Added Net: Name=IM0
+Added Pin To Net: NetName=LCD_ID Pin=P4-21
+Added Pin To Net: NetName=LCD_ID Pin=P5-1
+Added Net: Name=LCD_ID
+Added Pin To Net: NetName=LED Pin=P4-16
+Added Pin To Net: NetName=LED Pin=R1-1
+Added Net: Name=LED
+Added Pin To Net: NetName=RD Pin=P2-2
+Added Pin To Net: NetName=RD Pin=P4-10
+Added Net: Name=RD
+Added Pin To Net: NetName=RESET Pin=P2-1
+Added Pin To Net: NetName=RESET Pin=P4-31
+Added Net: Name=RESET
+Added Pin To Net: NetName=RS Pin=P2-4
+Added Pin To Net: NetName=RS Pin=P4-8
+Added Net: Name=RS
+Added Pin To Net: NetName=VCC Pin=P4-6
+Added Pin To Net: NetName=VCC Pin=P4-32
+Added Pin To Net: NetName=VCC Pin=P4-33
+Added Pin To Net: NetName=VCC Pin=P5-4
+Added Net: Name=VCC
+Added Pin To Net: NetName=WR Pin=P2-3
+Added Pin To Net: NetName=WR Pin=P4-9
+Added Net: Name=WR
+Added Pin To Net: NetName=XL Pin=P3-3
+Added Pin To Net: NetName=XL Pin=P4-13
+Added Net: Name=XL
+Added Pin To Net: NetName=XR Pin=P3-1
+Added Pin To Net: NetName=XR Pin=P4-15
+Added Net: Name=XR
+Added Pin To Net: NetName=YD Pin=P3-2
+Added Pin To Net: NetName=YD Pin=P4-14
+Added Net: Name=YD
+Added Pin To Net: NetName=YU Pin=P3-4
+Added Pin To Net: NetName=YU Pin=P4-12
+Added Net: Name=YU
+Added Class: Name=LCD_37PIN
+Added Room: Name=LCD_37PIN

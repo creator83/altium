@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=PA14 Pin=P2-1
+Removed Pin From Net: NetName=PA15 Pin=P2-2
+Removed Pin From Net: NetName=PA16 Pin=P2-3
+Removed Pin From Net: NetName=PA17 Pin=P2-4
+Removed Pin From Net: NetName=PA1 Pin=P3-2
+Removed Pin From Net: NetName=PA2 Pin=P3-3
+Removed Pin From Net: NetName=PA4 Pin=P3-5
+Removed Pin From Net: NetName=PA5 Pin=P3-6
+Removed Pin From Net: NetName=PA12 Pin=P3-7
+Removed Pin From Net: NetName=PA13 Pin=P3-8
+Change Component Footprint: Designator=P2 Old Footprint=Pin_header_6P_2.54_M New Footprint=Pin_header_2P_2.54_M
+Change Component Comment : Designator=P2 Old Comment=Pin header 6 New Comment=Pin header 2
+Added Pin To Net: NetName=PA16 Pin=P2-1
+Added Pin To Net: NetName=PA17 Pin=P2-2
+Added Pin To Net: NetName=PA1 Pin=P3-1
+Added Pin To Net: NetName=PA2 Pin=P3-2
+Added Pin To Net: NetName=PA4 Pin=P3-3
+Added Pin To Net: NetName=PA5 Pin=P3-4
+Added Pin To Net: NetName=PA12 Pin=P3-5
+Added Pin To Net: NetName=PA13 Pin=P3-6
+Added Pin To Net: NetName=PA14 Pin=P3-7
+Added Pin To Net: NetName=PA15 Pin=P3-8
+Added Pin To Net: NetName=SWCLK Pin=U1-34
+Added Pin To Net: NetName=SWDIO Pin=U1-37
+Added Pin To Net: NetName=XTAL Pin=U1-51
+Added Room: Name=MK64

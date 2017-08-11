@@ -1,0 +1,45 @@
+Added Component: Designator=C10(1206)
+Added Component: Designator=C11(1206)
+Added Component: Designator=C12(RB5-12)
+Added Component: Designator=D1(DB-107)
+Added Component: Designator=P10(Pin_header 3_5.08)
+Added Component: Designator=P11(Pin_header4_2.54)
+Added Component: Designator=P12(Pin_header3_2.54)
+Added Component: Designator=T1(TPK-1)
+Added Component: Designator=VR1(SOT223)
+Added Pin To Net: NetName=3V3 Pin=C11-1
+Added Pin To Net: NetName=3V3 Pin=P11-3
+Added Pin To Net: NetName=3V3 Pin=P11-4
+Added Pin To Net: NetName=3V3 Pin=VR1-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=P10-3
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=GND Pin=P11-2
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=L Pin=P10-2
+Added Pin To Net: NetName=L Pin=P12-1
+Added Pin To Net: NetName=L Pin=T1-2
+Added Net: Name=L
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=T1-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=T1-4
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=N Pin=P10-1
+Added Pin To Net: NetName=N Pin=P12-2
+Added Pin To Net: NetName=N Pin=P12-3
+Added Pin To Net: NetName=N Pin=T1-1
+Added Net: Name=N
+Added Pin To Net: NetName=VCC Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=VCC Pin=D1-4
+Added Pin To Net: NetName=VCC Pin=VR1-3
+Added Net: Name=VCC
+Added Class: Name=PPR_Solder_transformer
+Added Room: Name=PPR_Solder_transformer

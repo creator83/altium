@@ -1,0 +1,7 @@
+Added Component: Designator=R17(0805_C)
+Added Component: Designator=R18(0805_C)
+Added Pin To Net: NetName=A Pin=R17-1
+Added Pin To Net: NetName=F Pin=R18-1
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R16 Res 10K
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R17 Res 0 Ohm
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R18 Res 0 Ohm

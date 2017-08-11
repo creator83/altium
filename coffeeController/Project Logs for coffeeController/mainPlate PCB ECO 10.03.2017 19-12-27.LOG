@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VALVE Pin=U5-17
+Removed Pin From Net: NetName=PUMP Pin=U5-18
+Added Pin To Net: NetName=VALVE Pin=U5-18
+Added Pin To Net: NetName=PUMP Pin=U5-20

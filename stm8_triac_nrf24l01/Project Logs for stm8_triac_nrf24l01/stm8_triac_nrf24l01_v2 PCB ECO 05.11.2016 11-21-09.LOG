@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=LOAD6 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=LOAD6 Pin=Q2-1
+Removed Pin From Net: NetName=FASE Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=FASE Pin=R24-2
+Removed Pin From Net: NetName=FASE Pin=R27-2
+Removed Pin From Net: NetName=LOAD6 Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=C10
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=D5
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=Q2
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=R12
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=R13
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=R14
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=R24
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=R27
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=R29
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=U3
+Added Room: Name=stm8_triac_nrf24l01

@@ -1,0 +1,5 @@
+Added Component: Designator=C4(0603_C)
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Member To Class: ClassName=hummiditySensor Member=Component C4 Cap 0.1uf
+Added Room: Name=hummiditySensor

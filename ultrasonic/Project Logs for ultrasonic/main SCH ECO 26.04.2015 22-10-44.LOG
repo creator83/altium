@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=U1-12 Old Name=PB0 (ICP1) New Designator =PD1 (TXD) New Name=31
+Change Pin Designator/Name:  Old Designator=U1-13 Old Name=PB1 (OC1A) New Designator =PD0 (RXD) New Name=30
+Change Pin Designator/Name:  Old Designator=U1-30 Old Name=PD0 (RXD) New Designator =PB0 (ICP1) New Name=12
+Change Pin Designator/Name:  Old Designator=U1-31 Old Name=PD1 (TXD) New Designator =PB1 (OC1A) New Name=13

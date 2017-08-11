@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXTAL32 Pin=Y1-1
+Removed Pin From Net: NetName=XTAL32 Pin=Y1-2
+Added Pin To Net: NetName=XTAL32 Pin=Y1-1
+Added Pin To Net: NetName=EXTAL32 Pin=Y1-2

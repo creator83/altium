@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=N Pin=P5-2
+Removed Pin From Net: NetName=GND Pin=P5-3
+Removed Member From Class: ClassName=stm8_triac_nrf24l01 Member=P5
+Added Room: Name=stm8_triac_nrf24l01

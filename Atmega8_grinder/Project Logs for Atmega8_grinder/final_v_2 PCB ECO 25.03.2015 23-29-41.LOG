@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=FASE Pin=K1-1
+Added Net: Name=FASE
+Added Pin To Net: NetName=N Pin=K1-3
+Added Net: Name=N
+Added Room: Name=encoder

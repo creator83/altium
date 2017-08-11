@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=E Pin=U1-1
+Removed Pin From Net: NetName=D6 Pin=U1-6
+Removed Pin From Net: NetName=D7 Pin=U1-10
+Removed Pin From Net: NetName=RS Pin=U1-20
+Added Pin To Net: NetName=D7 Pin=U1-1
+Added Pin To Net: NetName=RS Pin=U1-6
+Added Pin To Net: NetName=E Pin=U1-10
+Added Pin To Net: NetName=D6 Pin=U1-20
+Added Room: Name=pressure_Controller_stm8

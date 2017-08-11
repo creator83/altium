@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DIG2 Pin=U2-14
+Removed Pin From Net: NetName=F Pin=U2-20
+Removed Pin From Net: NetName=D Pin=U2-22
+Added Pin To Net: NetName=F Pin=U2-14
+Added Pin To Net: NetName=DIG2 Pin=U2-20
+Added Pin To Net: NetName=D Pin=U2-23
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R16 Res 10K

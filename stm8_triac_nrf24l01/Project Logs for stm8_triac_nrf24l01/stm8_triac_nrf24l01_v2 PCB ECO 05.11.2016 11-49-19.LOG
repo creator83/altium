@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P4-3
+Removed Pin From Net: NetName=GND Pin=P7-3
+Removed Pin From Net: NetName=GND Pin=P9-3
+Removed Pin From Net: NetName=GND Pin=P10-3
+Removed Pin From Net: NetName=GND Pin=P11-3
+Added Pin To Net: NetName=G Pin=P3-3
+Added Pin To Net: NetName=G Pin=P4-3
+Added Pin To Net: NetName=G Pin=P7-3
+Added Pin To Net: NetName=G Pin=P9-3
+Added Pin To Net: NetName=G Pin=P10-3
+Added Pin To Net: NetName=G Pin=P11-3
+Added Net: Name=G
+Added Room: Name=stm8_triac_nrf24l01

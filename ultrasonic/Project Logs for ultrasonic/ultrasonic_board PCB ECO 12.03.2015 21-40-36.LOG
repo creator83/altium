@@ -1,0 +1,12 @@
+Added Component: Designator=P2(RF_pin_header_4_2)
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=3V3 Pin=P2-2
+Added Pin To Net: NetName=CE Pin=P2-3
+Added Pin To Net: NetName=CS_RF Pin=P2-4
+Added Pin To Net: NetName=SCK Pin=P2-5
+Added Pin To Net: NetName=MOSI Pin=P2-6
+Added Pin To Net: NetName=MISO Pin=P2-7
+Added Pin To Net: NetName=INT1 Pin=P2-8
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U1-6

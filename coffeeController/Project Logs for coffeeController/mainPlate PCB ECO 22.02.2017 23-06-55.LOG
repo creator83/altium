@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=HEATER Pin=P1-2
+Removed Pin From Net: NetName=PUMP Pin=P1-3
+Change Component Footprint: Designator=C12 Old Footprint=0603_C New Footprint=0805_C
+Added Pin To Net: NetName=PUMP Pin=P1-2
+Added Pin To Net: NetName=HEATER Pin=P1-3

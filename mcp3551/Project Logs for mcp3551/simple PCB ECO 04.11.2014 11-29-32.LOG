@@ -1,0 +1,38 @@
+Added Component: Designator=C3(RB2-8)
+Added Component: Designator=P5(Pin_header6_2.54)
+Added Component: Designator=P6(Pin_header2)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=U1(SOIC-SN8_N)
+Added Pin To Net: NetName=+3.3V Pin=P5-1
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=P5-2
+Added Pin To Net: NetName=+5V Pin=U1-8
+Added Net: Name=+5V
+Added Pin To Net: NetName=CS Pin=P5-5
+Added Pin To Net: NetName=CS Pin=U1-7
+Added Net: Name=CS
+Added Pin To Net: NetName=DO Pin=P5-4
+Added Pin To Net: NetName=DO Pin=U1-6
+Added Net: Name=DO
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=P5-6
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R2-1
+Added Pin To Net: NetName=NetP6_1 Pin=U1-2
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=SCK Pin=P5-3
+Added Pin To Net: NetName=SCK Pin=U1-5
+Added Net: Name=SCK
+Added Class: Name=sheme_simple
+Added Room: Name=sheme_simple

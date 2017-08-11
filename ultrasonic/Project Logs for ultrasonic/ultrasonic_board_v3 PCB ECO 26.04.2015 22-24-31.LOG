@@ -1,0 +1,135 @@
+Added Component: Designator=C3(RAD-0.1)
+Added Component: Designator=C4(RAD-0.1)
+Added Component: Designator=P1(ISP)
+Added Component: Designator=P2(RF_pin_header_4_2)
+Added Component: Designator=P3(Pin_header2_2.54)
+Added Component: Designator=P5(Pin_header4_1.27)
+Added Component: Designator=P6(Pin_header7_1.27)
+Added Component: Designator=P7(Pin_header4_2.54)
+Added Component: Designator=Q1(SOT_23)
+Added Component: Designator=Q2(SOT_23)
+Added Component: Designator=Q3(SOT_23)
+Added Component: Designator=Q4(SOT_23)
+Added Component: Designator=R1(1206)
+Added Component: Designator=R2(1206)
+Added Component: Designator=R3(1206)
+Added Component: Designator=R4(1206)
+Added Component: Designator=R5(1206)
+Added Component: Designator=S1(TAKT-KEY)
+Added Component: Designator=U1(32A_N)
+Added Component: Designator=X1(CRISTAL 5MM)
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=MISO Pin=P1-1
+Added Pin To Net: NetName=+5 Pin=P1-2
+Added Pin To Net: NetName=SCK Pin=P1-3
+Added Pin To Net: NetName=MOSI Pin=P1-4
+Added Pin To Net: NetName=RESET Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=3V3 Pin=P2-2
+Added Pin To Net: NetName=CE Pin=P2-3
+Added Pin To Net: NetName=CS_RF Pin=P2-4
+Added Pin To Net: NetName=SCK Pin=P2-5
+Added Pin To Net: NetName=MOSI Pin=P2-6
+Added Pin To Net: NetName=MISO Pin=P2-7
+Added Pin To Net: NetName=INT1 Pin=P2-8
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=+5 Pin=P3-2
+Added Pin To Net: NetName=Q1 Pin=P5-1
+Added Pin To Net: NetName=Q2 Pin=P5-2
+Added Pin To Net: NetName=Q3 Pin=P5-3
+Added Pin To Net: NetName=Q4 Pin=P5-4
+Added Pin To Net: NetName=E Pin=P6-1
+Added Pin To Net: NetName=F Pin=P6-2
+Added Pin To Net: NetName=G Pin=P6-3
+Added Pin To Net: NetName=A Pin=P6-4
+Added Pin To Net: NetName=B Pin=P6-5
+Added Pin To Net: NetName=C Pin=P6-6
+Added Pin To Net: NetName=D Pin=P6-7
+Added Pin To Net: NetName=+5 Pin=P7-1
+Added Pin To Net: NetName=TRIG Pin=P7-2
+Added Pin To Net: NetName=INT0 Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P7-4
+Added Pin To Net: NetName=4_DIGIT Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=Q4 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=Q1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=Q2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=Q3 Pin=Q4-3
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=RESET Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=4_DIGIT Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R4-2
+Added Pin To Net: NetName=3_DIGIT Pin=R5-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=RESET Pin=S1-2
+Added Pin To Net: NetName=RESET Pin=S1-2
+Added Pin To Net: NetName=INT1 Pin=U1-1
+Added Pin To Net: NetName=E Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=+5 Pin=U1-6
+Added Pin To Net: NetName=NetC3_1 Pin=U1-7
+Added Pin To Net: NetName=NetC4_1 Pin=U1-8
+Added Pin To Net: NetName=F Pin=U1-9
+Added Pin To Net: NetName=G Pin=U1-10
+Added Pin To Net: NetName=CE Pin=U1-12
+Added Pin To Net: NetName=TRIG Pin=U1-13
+Added Pin To Net: NetName=CS_RF Pin=U1-14
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=A Pin=U1-23
+Added Pin To Net: NetName=B Pin=U1-24
+Added Pin To Net: NetName=C Pin=U1-25
+Added Pin To Net: NetName=D Pin=U1-26
+Added Pin To Net: NetName=NetR2_1 Pin=U1-27
+Added Pin To Net: NetName=NetR4_1 Pin=U1-28
+Added Pin To Net: NetName=RESET Pin=U1-29
+Added Pin To Net: NetName=3_DIGIT Pin=U1-30
+Added Pin To Net: NetName=NetR3_1 Pin=U1-31
+Added Pin To Net: NetName=INT0 Pin=U1-32
+Added Pin To Net: NetName=NetC4_1 Pin=X1-1
+Added Pin To Net: NetName=NetC3_1 Pin=X1-2
+Added Member To Class: ClassName=main Member=Component C1 Cap 10uf 16v tantalum
+Added Member To Class: ClassName=main Member=Component C2 Cap 22uf 16v tantalum
+Added Member To Class: ClassName=main Member=Component C3 Cap 22pf
+Added Member To Class: ClassName=main Member=Component C4 Cap 22pf
+Added Member To Class: ClassName=main Member=Component P1 ISP
+Added Member To Class: ClassName=main Member=Component P2 RF_pin header 4_2
+Added Member To Class: ClassName=main Member=Component P3 Pin header 2
+Added Member To Class: ClassName=main Member=Component P4 DC jack 5.5-2.1
+Added Member To Class: ClassName=main Member=Component P5 Pin header 4
+Added Member To Class: ClassName=main Member=Component P6 Pin header 7
+Added Member To Class: ClassName=main Member=Component P7 sr4_pin_header_4
+Added Member To Class: ClassName=main Member=Component Q1 S9013
+Added Member To Class: ClassName=main Member=Component Q2 S9013
+Added Member To Class: ClassName=main Member=Component Q3 S9013
+Added Member To Class: ClassName=main Member=Component Q4 S9013
+Added Member To Class: ClassName=main Member=Component R1 Res 10K
+Added Member To Class: ClassName=main Member=Component R2 Res 10K
+Added Member To Class: ClassName=main Member=Component R3 Res 10K
+Added Member To Class: ClassName=main Member=Component R4 Res 10K
+Added Member To Class: ClassName=main Member=Component R5 Res 10K
+Added Member To Class: ClassName=main Member=Component S1 SW_TAKT
+Added Member To Class: ClassName=main Member=Component U1 ATmega8A-AU
+Added Member To Class: ClassName=main Member=Component VR1 ams1117-3.3
+Added Member To Class: ClassName=main Member=Component X1 Cristal
+Added Room: Name=main

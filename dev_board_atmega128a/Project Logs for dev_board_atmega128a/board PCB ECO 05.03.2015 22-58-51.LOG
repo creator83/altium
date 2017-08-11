@@ -1,0 +1,8 @@
+Added Component: Designator=BT1(BAT-2)
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=CSA Pin=P8-15
+Added Pin To Net: NetName=CSB Pin=P8-16
+Added Member To Class: ClassName=main_board Member=Component BT1 Battery
+Added Room: Name=butt
+Added Room: Name=main_board

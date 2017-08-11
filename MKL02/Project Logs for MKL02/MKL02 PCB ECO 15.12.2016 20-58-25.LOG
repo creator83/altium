@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC8_2 Pin=P1-3
+Added Pin To Net: NetName=NetC8_2 Pin=U1-31
+Change Net Name : Old Net Name=NetC8_2 New Net Name=RESET
+Added Room: Name=MKL02

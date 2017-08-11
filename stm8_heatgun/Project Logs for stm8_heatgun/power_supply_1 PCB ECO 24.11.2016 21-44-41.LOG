@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Added Component: Designator=P1(PHOENIX_1715734)
+Added Pin To Net: NetName=FASE Pin=P1-1
+Added Pin To Net: NetName=N Pin=P1-2
+Added Pin To Net: NetName=G Pin=P1-3
+Added Member To Class: ClassName=power_supply Member=Component P4 Pin header 2
+Added Room: Name=power_supply

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=USB_VCC Pin=J1-1
+Removed Pin From Net: NetName=TX Pin=R1-1
+Removed Pin From Net: NetName=RX Pin=R2-1
+Removed Pin From Net: NetName=DM Pin=R5-2
+Added Pin To Net: NetName=RX Pin=R1-1
+Added Pin To Net: NetName=TX Pin=R2-1
+Added Room: Name=AVR_PROGRAMMER_FT232

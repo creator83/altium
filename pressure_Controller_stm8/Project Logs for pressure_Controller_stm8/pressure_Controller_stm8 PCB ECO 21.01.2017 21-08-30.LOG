@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MINUS Pin=P7-1
+Removed Pin From Net: NetName=PLUS Pin=P7-2
+Added Pin To Net: NetName=PLUS Pin=P7-1
+Added Pin To Net: NetName=MINUS Pin=P7-2
+Added Room: Name=pressure_Controller_stm8

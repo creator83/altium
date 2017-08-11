@@ -1,0 +1,28 @@
+Added Component: Designator=C13(0805_1)
+Added Component: Designator=C14(0805_1)
+Added Component: Designator=P12(Pin_header2)
+Added Component: Designator=P13(Pin_header2)
+Added Component: Designator=P14(Pin_header2)
+Added Component: Designator=R6(1206)
+Added Component: Designator=X1(CRISTAL 5MM)
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=P12-1
+Added Pin To Net: NetName=NetC13_1 Pin=R6-2
+Added Pin To Net: NetName=NetC13_1 Pin=X1-2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=P13-2
+Added Pin To Net: NetName=NetC14_1 Pin=R6-1
+Added Pin To Net: NetName=NetC14_1 Pin=X1-1
+Added Net: Name=NetC14_1
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component C13 Cap 22pf
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component C14 Cap 22pf
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component P12 Pin header 2
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component P13 Pin header 2
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component P14 Pin header 2
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component R6 Res 1M
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component X1 Cristal
+Added Room: Name=MKL25Z_BOARD

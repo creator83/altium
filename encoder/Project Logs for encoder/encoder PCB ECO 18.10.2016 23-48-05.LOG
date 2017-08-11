@@ -1,0 +1,38 @@
+Added Component: Designator=C1(0805_C)
+Added Component: Designator=C2(0805_C)
+Added Component: Designator=C3(0805_C)
+Added Component: Designator=P1(Pin_header_2P_2.54_M)
+Added Component: Designator=P2(Encoder w Button)
+Added Component: Designator=P3(Pin_header_3P_2.54_M)
+Added Component: Designator=R1(0805_R)
+Added Component: Designator=R2(0805_R)
+Added Component: Designator=R3(0805_R)
+Added Pin To Net: NetName=BUTTON Pin=C3-2
+Added Pin To Net: NetName=BUTTON Pin=P2-5
+Added Pin To Net: NetName=BUTTON Pin=P3-1
+Added Pin To Net: NetName=BUTTON Pin=R3-1
+Added Net: Name=BUTTON
+Added Pin To Net: NetName=ENC+ Pin=C2-2
+Added Pin To Net: NetName=ENC+ Pin=P2-3
+Added Pin To Net: NetName=ENC+ Pin=P3-3
+Added Pin To Net: NetName=ENC+ Pin=R2-1
+Added Net: Name=ENC+
+Added Pin To Net: NetName=ENC- Pin=C1-2
+Added Pin To Net: NetName=ENC- Pin=P2-1
+Added Pin To Net: NetName=ENC- Pin=P3-2
+Added Pin To Net: NetName=ENC- Pin=R1-1
+Added Net: Name=ENC-
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Net: Name=VCC
+Added Class: Name=encoder
+Added Room: Name=encoder

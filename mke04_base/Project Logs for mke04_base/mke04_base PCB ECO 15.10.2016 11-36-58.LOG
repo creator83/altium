@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=I4 Pin=P3-1
+Removed Pin From Net: NetName=H2 Pin=P3-2
+Removed Pin From Net: NetName=PE7 Pin=P4-1
+Removed Pin From Net: NetName=PE2 Pin=P4-2
+Removed Pin From Net: NetName=PE1 Pin=P4-3
+Removed Pin From Net: NetName=PE0 Pin=P4-4
+Change Component Footprint: Designator=P3 Old Footprint=Pin_header_2P_2.54_M New Footprint=Pin_header_3P_2.54_M
+Change Component Footprint: Designator=P4 Old Footprint=Pin_header_4P_2.54_M New Footprint=Pin_header_3P_2.54_M
+Change Component Comment : Designator=P3 Old Comment=Pin header 2 New Comment=Pin header 3
+Change Component Comment : Designator=P4 Old Comment=Pin header 4 New Comment=Pin header 3
+Added Pin To Net: NetName=PE7 Pin=P3-1
+Added Pin To Net: NetName=I4 Pin=P3-2
+Added Pin To Net: NetName=H2 Pin=P3-3
+Added Pin To Net: NetName=PE2 Pin=P4-1
+Added Pin To Net: NetName=PE1 Pin=P4-2
+Added Pin To Net: NetName=PE0 Pin=P4-3
+Added Room: Name=mke04_base

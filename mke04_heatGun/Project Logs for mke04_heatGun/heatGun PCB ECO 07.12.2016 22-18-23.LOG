@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=E Pin=U1-39
+Removed Pin From Net: NetName=RW Pin=U1-40
+Removed Pin From Net: NetName=RS Pin=U1-41
+Added Pin To Net: NetName=RS Pin=U1-14
+Added Pin To Net: NetName=RW Pin=U1-15
+Added Pin To Net: NetName=E Pin=U1-16
+Added Room: Name=mke04_heatGun

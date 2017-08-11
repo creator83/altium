@@ -1,0 +1,46 @@
+Added Component: Designator=D1(0805_R)
+Added Component: Designator=D2(0805_R)
+Added Component: Designator=D3(0805_R)
+Added Component: Designator=P1(Pin_header_2P_2.54_M)
+Added Component: Designator=P2(Pin_header_2P_2.54_M)
+Added Component: Designator=P3(Pin_header_3P_2.54_M)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=R1(1206_R)
+Added Component: Designator=R2(0805_R)
+Added Component: Designator=R3(0805_R)
+Added Component: Designator=R4(0805_R)
+Added Pin To Net: NetName=24V Pin=P1-1
+Added Pin To Net: NetName=24V Pin=P2-2
+Added Net: Name=24V
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=P3-1
+Added Pin To Net: NetName=LED1 Pin=R2-1
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=P3-2
+Added Pin To Net: NetName=LED2 Pin=R3-1
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=P3-3
+Added Pin To Net: NetName=LED3 Pin=R4-1
+Added Net: Name=LED3
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R4-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=Q1-3
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Net: Name=NetQ1_1
+Added Class: Name=Module
+Added Room: Name=Module

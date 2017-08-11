@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Member From Class: ClassName=mke04_heatGun Member=C8
+Removed Member From Class: ClassName=mke04_heatGun Member=X1
+Change Component Footprint: Designator=R7 Old Footprint=1206_R New Footprint=0805_R
+Change Component Comment : Designator=C7 Old Comment=Cap 22pf New Comment=Cap 0.1uf
+Change Component Comment : Designator=R7 Old Comment=Res 1M New Comment=Res 10K
+Added Component: Designator=S1(TAKT-KEY)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=RESET Pin=C7-2
+Added Pin To Net: NetName=RESET Pin=R7-1
+Added Pin To Net: NetName=VDD Pin=R7-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=RESET Pin=S1-2
+Added Pin To Net: NetName=RESET Pin=S1-2
+Added Member To Class: ClassName=mke04_heatGun Member=Component S1 SW_TAKT
+Added Room: Name=mke04_heatGun

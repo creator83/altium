@@ -1,0 +1,82 @@
+Added Component: Designator=C1(RAD-0.4)
+Added Component: Designator=C2(RAD-0.4)
+Added Component: Designator=P3(Pin_header4_2.54)
+Added Component: Designator=P4(Pin_header2)
+Added Component: Designator=P5(Pin_header 3_5.08)
+Added Component: Designator=Q5(TO-220-AB)
+Added Component: Designator=Q6(TO-220-AB)
+Added Component: Designator=R12(2512)
+Added Component: Designator=R13(2512)
+Added Component: Designator=R14(2512)
+Added Component: Designator=R15(2512)
+Added Component: Designator=R16(2512)
+Added Component: Designator=R17(2512)
+Added Component: Designator=U1(DIP-4)
+Added Component: Designator=U2(DIP-6)
+Added Component: Designator=U3(DIP-4)
+Added Component: Designator=U4(DIP-6)
+Added Pin To Net: NetName=FASE Pin=P5-3
+Added Pin To Net: NetName=FASE Pin=Q5-2
+Added Pin To Net: NetName=FASE Pin=Q6-2
+Added Pin To Net: NetName=FASE Pin=R12-2
+Added Pin To Net: NetName=FASE Pin=R13-2
+Added Pin To Net: NetName=FASE Pin=R15-2
+Added Pin To Net: NetName=FASE Pin=R16-2
+Added Net: Name=FASE
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LOAD1 Pin=C1-1
+Added Pin To Net: NetName=LOAD1 Pin=P4-2
+Added Pin To Net: NetName=LOAD1 Pin=Q5-1
+Added Pin To Net: NetName=LOAD1 Pin=R14-2
+Added Net: Name=LOAD1
+Added Pin To Net: NetName=LOAD2 Pin=C2-1
+Added Pin To Net: NetName=LOAD2 Pin=P4-1
+Added Pin To Net: NetName=LOAD2 Pin=Q6-1
+Added Pin To Net: NetName=LOAD2 Pin=R17-2
+Added Net: Name=LOAD2
+Added Pin To Net: NetName=MCU_TRIAC1 Pin=P3-1
+Added Pin To Net: NetName=MCU_TRIAC1 Pin=U1-1
+Added Net: Name=MCU_TRIAC1
+Added Pin To Net: NetName=MCU_TRIAC2 Pin=P3-2
+Added Pin To Net: NetName=MCU_TRIAC2 Pin=U3-1
+Added Net: Name=MCU_TRIAC2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R13-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R16-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R14-1
+Added Pin To Net: NetName=NetQ5_3 Pin=U2-4
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=R17-1
+Added Pin To Net: NetName=NetQ6_3 Pin=U4-4
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U2-6
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U4-6
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U2-1
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU3_3 Pin=U3-3
+Added Pin To Net: NetName=NetU3_3 Pin=U4-1
+Added Net: Name=NetU3_3
+Added Pin To Net: NetName=N Pin=P5-1
+Added Pin To Net: NetName=N Pin=P5-2
+Added Net: Name=N
+Added Pin To Net: NetName=VCC Pin=P3-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U3-4
+Added Net: Name=VCC
+Added Class: Name=PPR_Solder_triac
+Added Room: Name=PPR_Solder_triac

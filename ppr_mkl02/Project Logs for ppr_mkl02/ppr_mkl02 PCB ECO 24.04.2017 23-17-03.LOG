@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=F Pin=U2-14
+Removed Pin From Net: NetName=E Pin=U2-21
+Added Pin To Net: NetName=F Pin=U2-21
+Added Pin To Net: NetName=E Pin=U2-22
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R16 Res 10K

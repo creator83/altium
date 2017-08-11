@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5 Pin=R3-1
+Change Component Footprint: Designator=D1 Old Footprint=0805_S New Footprint=0805_1
+Change Component Footprint: Designator=R1 Old Footprint=0805_S New Footprint=0805_1
+Added Pin To Net: NetName=VDD Pin=R3-1
+Added Room: Name=mkl05_dev

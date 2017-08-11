@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D2 Old Footprint=0805_R New Footprint=LED_5MM_YELLOW_1C-2A
+Change Component Comment : Designator=D2 Old Comment=LED1_smd New Comment=LED DIP
+Added Room: Name=power_supply

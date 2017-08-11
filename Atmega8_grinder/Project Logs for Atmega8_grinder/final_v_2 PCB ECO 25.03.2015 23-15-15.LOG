@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=R1 Old Footprint=0805_1 New Footprint=6-0805_L
+Change Component Footprint: Designator=R2 Old Footprint=0805_1 New Footprint=6-0805_L
+Change Component Footprint: Designator=R3 Old Footprint=0805_1 New Footprint=6-0805_L
+Change Component Footprint: Designator=R4 Old Footprint=0805_1 New Footprint=6-0805_L
+Change Component Footprint: Designator=C2 Old Footprint=0805_1 New Footprint=C0805
+Change Component Footprint: Designator=C3 Old Footprint=0805_1 New Footprint=C0805
+Change Component Footprint: Designator=C4 Old Footprint=0805_1 New Footprint=C0805
+Change Component Footprint: Designator=C5 Old Footprint=0805_1 New Footprint=C0805
+Added Component: Designator=P1(Encoder w Button)
+Added Component: Designator=P2(Pin_header4_2.54)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_2 Pin=P1-4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_1 Pin=P2-1
+Added Pin To Net: NetName=NetP1_2 Pin=P2-2
+Added Pin To Net: NetName=NetP1_3 Pin=P2-3
+Added Pin To Net: NetName=NetP1_5 Pin=P2-4
+Added Member To Class: ClassName=encoder Member=Component P1 Encoder
+Added Member To Class: ClassName=encoder Member=Component P2 encoder_pin header_4
+Added Room: Name=encoder
+Added Room: Name=Sheet1

@@ -1,0 +1,19 @@
+Added Component: Designator=u4(SO-16_ds3231)
+Added Pin To Net: NetName=CSA Pin=P8-15
+Added Pin To Net: NetName=CSB Pin=P8-16
+Added Pin To Net: NetName=32KHZ Pin=u4-1
+Added Pin To Net: NetName=+5 Pin=u4-2
+Added Pin To Net: NetName=SQW Pin=u4-3
+Added Pin To Net: NetName=GND Pin=u4-5
+Added Pin To Net: NetName=GND Pin=u4-6
+Added Pin To Net: NetName=GND Pin=u4-7
+Added Pin To Net: NetName=GND Pin=u4-8
+Added Pin To Net: NetName=GND Pin=u4-9
+Added Pin To Net: NetName=GND Pin=u4-10
+Added Pin To Net: NetName=GND Pin=u4-11
+Added Pin To Net: NetName=GND Pin=u4-12
+Added Pin To Net: NetName=GND Pin=u4-13
+Added Pin To Net: NetName=NetBT1_1 Pin=u4-14
+Added Pin To Net: NetName=I2C_SDA Pin=u4-15
+Added Pin To Net: NetName=I2C_SCL Pin=u4-16
+Added Member To Class: ClassName=main_board Member=Component u4 DS3231

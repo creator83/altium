@@ -1,0 +1,59 @@
+Added Component: Designator=C1(0603_C)
+Added Component: Designator=C2(0603_C)
+Added Component: Designator=C3(0603_C)
+Added Component: Designator=P1(Pin_header_2P_2.54_M)
+Added Component: Designator=P2(Pin_header_6P_2.54_M)
+Added Component: Designator=P3(Pin_header_4P_2.54_M)
+Added Component: Designator=R1(1206_R)
+Added Component: Designator=R2(0603_C)
+Added Component: Designator=U1(tssop16)
+Added Pin To Net: NetName=BUSY Pin=P2-1
+Added Pin To Net: NetName=BUSY Pin=U1-13
+Added Net: Name=BUSY
+Added Pin To Net: NetName=CLK Pin=P2-5
+Added Pin To Net: NetName=CLK Pin=U1-16
+Added Net: Name=CLK
+Added Pin To Net: NetName=CS Pin=P2-6
+Added Pin To Net: NetName=CS Pin=R2-1
+Added Pin To Net: NetName=CS Pin=U1-15
+Added Net: Name=CS
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Net: Name=GND
+Added Pin To Net: NetName=IRQ Pin=P2-2
+Added Pin To Net: NetName=IRQ Pin=R1-2
+Added Pin To Net: NetName=IRQ Pin=U1-11
+Added Net: Name=IRQ
+Added Pin To Net: NetName=MISO Pin=P2-3
+Added Pin To Net: NetName=MISO Pin=U1-12
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P2-4
+Added Pin To Net: NetName=MOSI Pin=U1-14
+Added Net: Name=MOSI
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U1-9
+Added Pin To Net: NetName=VCC Pin=U1-10
+Added Net: Name=VCC
+Added Pin To Net: NetName=X+ Pin=P3-4
+Added Pin To Net: NetName=X+ Pin=U1-2
+Added Net: Name=X+
+Added Pin To Net: NetName=X- Pin=P3-2
+Added Pin To Net: NetName=X- Pin=U1-4
+Added Net: Name=X-
+Added Pin To Net: NetName=Y+ Pin=P3-3
+Added Pin To Net: NetName=Y+ Pin=U1-3
+Added Net: Name=Y+
+Added Pin To Net: NetName=Y- Pin=P3-1
+Added Pin To Net: NetName=Y- Pin=U1-5
+Added Net: Name=Y-
+Added Class: Name=xpt2046
+Added Room: Name=xpt2046

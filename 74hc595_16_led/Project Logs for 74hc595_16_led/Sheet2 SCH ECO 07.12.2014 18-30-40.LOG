@@ -1,0 +1,5 @@
+Remove Pin=U1-11 From Net=SCK
+Remove Pin=U1-12 From Net=CS
+Remove Pin=U1-14 From Net=MOSI
+Remove Pin=U2-11 From Net=SCK
+Remove Pin=U2-12 From Net=CS

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U1 Old Footprint=DIP-8 New Footprint=SOIC-SN8_N
+Added Component: Designator=VR2(TO-220-AB)
+Added Pin To Net: NetName=GND Pin=VR2-1
+Added Pin To Net: NetName=+5V Pin=VR2-2
+Added Pin To Net: NetName=VCC Pin=VR2-3
+Added Member To Class: ClassName=Sheet1 Member=Component VR2 LM7805
+Added Room: Name=Sheet1

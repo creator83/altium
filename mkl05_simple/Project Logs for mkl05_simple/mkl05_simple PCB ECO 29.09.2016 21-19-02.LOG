@@ -1,0 +1,5 @@
+Added Component: Designator=P4(Pin_header_2P_2.54_M)
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Member To Class: ClassName=mkl05_simple Member=Component P4 Pin header 2
+Added Room: Name=mkl05_simple

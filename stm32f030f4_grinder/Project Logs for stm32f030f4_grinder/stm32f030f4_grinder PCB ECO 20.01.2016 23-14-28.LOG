@@ -1,0 +1,4 @@
+Added Component: Designator=R8(0805_1)
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Member To Class: ClassName=stm32f030f4_grinder_main Member=Component R8 Res 10K

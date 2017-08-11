@@ -1,0 +1,249 @@
+Added Component: Designator=C1(0603_C)
+Added Component: Designator=C2(0603_C)
+Added Component: Designator=C3(0603_C)
+Added Component: Designator=C4(0603_C)
+Added Component: Designator=C5(0603_C)
+Added Component: Designator=C6(0603_C)
+Added Component: Designator=C10(0603_C)
+Added Component: Designator=C11(0603_C)
+Added Component: Designator=C12(0603_C)
+Added Component: Designator=C13(0603_C)
+Added Component: Designator=C14(0603_C)
+Added Component: Designator=C15(0603_C)
+Added Component: Designator=C16(0603_C)
+Added Component: Designator=C17(0603_C)
+Added Component: Designator=clock(Pin_header_6P_2.54_M)
+Added Component: Designator=debugLCD(Pin_header_5P_2.54_M)
+Added Component: Designator=debug(Pin_header_4P_2.54_M)
+Added Component: Designator=debugtouch(Pin_header_5P_2.54_M)
+Added Component: Designator=lcd(Pin_header18_0.8)
+Added Component: Designator=P1(PHOENIX_1715734)
+Added Component: Designator=P2(PHOENIX_1715734)
+Added Component: Designator=P3(Pin_header_2P_2.54_M)
+Added Component: Designator=P4(PIN_HEADER_2_5.08)
+Added Component: Designator=P5(PIN_HEADER_2_5.08)
+Added Component: Designator=Q4(SOT23)
+Added Component: Designator=R1(1206_R)
+Added Component: Designator=R3(1206_R)
+Added Component: Designator=R4(1206_R)
+Added Component: Designator=R5(1206_R)
+Added Component: Designator=R6(0805_R)
+Added Component: Designator=R10(0603_C)
+Added Component: Designator=R11(0603_C)
+Added Component: Designator=R12(0603_C)
+Added Component: Designator=R13(0603_C)
+Added Component: Designator=R14(0603_C)
+Added Component: Designator=R15(0603_C)
+Added Component: Designator=R16(1206_R)
+Added Component: Designator=R17(0603_C)
+Added Component: Designator=U1(RT-5)
+Added Component: Designator=U5(QFN50P500X500X100-33N-S325)
+Added Component: Designator=U6(tssop16)
+Added Component: Designator=u7(SOIC127_8)
+Added Pin To Net: NetName=32K Pin=clock-1
+Added Net: Name=32K
+Added Pin To Net: NetName=BUTTONBOILER Pin=C17-2
+Added Pin To Net: NetName=BUTTONBOILER Pin=P2-2
+Added Pin To Net: NetName=BUTTONBOILER Pin=R14-1
+Added Pin To Net: NetName=BUTTONBOILER Pin=U5-23
+Added Net: Name=BUTTONBOILER
+Added Pin To Net: NetName=BUTTONCOFFEE Pin=C11-2
+Added Pin To Net: NetName=BUTTONCOFFEE Pin=P2-1
+Added Pin To Net: NetName=BUTTONCOFFEE Pin=R10-1
+Added Pin To Net: NetName=BUTTONCOFFEE Pin=U5-22
+Added Net: Name=BUTTONCOFFEE
+Added Pin To Net: NetName=BUTTONSTEAM Pin=C13-2
+Added Pin To Net: NetName=BUTTONSTEAM Pin=P2-3
+Added Pin To Net: NetName=BUTTONSTEAM Pin=R11-1
+Added Pin To Net: NetName=BUTTONSTEAM Pin=U5-24
+Added Net: Name=BUTTONSTEAM
+Added Pin To Net: NetName=CSFLASH Pin=R15-1
+Added Pin To Net: NetName=CSFLASH Pin=U5-25
+Added Pin To Net: NetName=CSFLASH Pin=u7-1
+Added Net: Name=CSFLASH
+Added Pin To Net: NetName=CSLCD Pin=debugLCD-2
+Added Pin To Net: NetName=CSLCD Pin=lcd-5
+Added Pin To Net: NetName=CSLCD Pin=R12-1
+Added Pin To Net: NetName=CSLCD Pin=U5-29
+Added Net: Name=CSLCD
+Added Pin To Net: NetName=CSTOUCH Pin=debugtouch-2
+Added Pin To Net: NetName=CSTOUCH Pin=R13-1
+Added Pin To Net: NetName=CSTOUCH Pin=U5-3
+Added Pin To Net: NetName=CSTOUCH Pin=U6-15
+Added Net: Name=CSTOUCH
+Added Pin To Net: NetName=EXTAL Pin=U5-17
+Added Net: Name=EXTAL
+Added Pin To Net: NetName=HEATER Pin=P1-2
+Added Pin To Net: NetName=HEATER Pin=U5-14
+Added Net: Name=HEATER
+Added Pin To Net: NetName=LIGHTGND Pin=lcd-11
+Added Pin To Net: NetName=LIGHTGND Pin=lcd-12
+Added Pin To Net: NetName=LIGHTGND Pin=lcd-13
+Added Pin To Net: NetName=LIGHTGND Pin=lcd-14
+Added Pin To Net: NetName=LIGHTGND Pin=Q4-3
+Added Net: Name=LIGHTGND
+Added Pin To Net: NetName=LIGHT Pin=R4-1
+Added Pin To Net: NetName=LIGHT Pin=U5-11
+Added Net: Name=LIGHT
+Added Pin To Net: NetName=MISOFLASH Pin=U5-28
+Added Pin To Net: NetName=MISOFLASH Pin=u7-2
+Added Net: Name=MISOFLASH
+Added Pin To Net: NetName=MISOTOUCH Pin=debugtouch-4
+Added Pin To Net: NetName=MISOTOUCH Pin=U5-6
+Added Pin To Net: NetName=MISOTOUCH Pin=U6-12
+Added Net: Name=MISOTOUCH
+Added Pin To Net: NetName=MOSIFLASH Pin=U5-27
+Added Pin To Net: NetName=MOSIFLASH Pin=u7-5
+Added Net: Name=MOSIFLASH
+Added Pin To Net: NetName=MOSILCD Pin=debugLCD-1
+Added Pin To Net: NetName=MOSILCD Pin=lcd-6
+Added Pin To Net: NetName=MOSILCD Pin=U5-31
+Added Net: Name=MOSILCD
+Added Pin To Net: NetName=MOSITOUCH Pin=debugtouch-3
+Added Pin To Net: NetName=MOSITOUCH Pin=U5-5
+Added Pin To Net: NetName=MOSITOUCH Pin=U6-14
+Added Net: Name=MOSITOUCH
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R1-1
+Added Pin To Net: NetName=NetC5_1 Pin=R3-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R4-2
+Added Pin To Net: NetName=NetQ4_1 Pin=R6-2
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=PUMP Pin=P1-1
+Added Pin To Net: NetName=PUMP Pin=U5-19
+Added Net: Name=PUMP
+Added Pin To Net: NetName=RESETLCD Pin=debugLCD-5
+Added Pin To Net: NetName=RESETLCD Pin=lcd-2
+Added Pin To Net: NetName=RESETLCD Pin=U5-1
+Added Net: Name=RESETLCD
+Added Pin To Net: NetName=RESET Pin=debug-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=RS Pin=C1-1
+Added Pin To Net: NetName=RS Pin=C2-1
+Added Pin To Net: NetName=RS Pin=C3-1
+Added Pin To Net: NetName=RS Pin=C4-1
+Added Pin To Net: NetName=RS Pin=C6-1
+Added Pin To Net: NetName=RS Pin=C10-1
+Added Pin To Net: NetName=RS Pin=C11-1
+Added Pin To Net: NetName=RS Pin=C12-2
+Added Pin To Net: NetName=RS Pin=C13-1
+Added Pin To Net: NetName=RS Pin=C14-1
+Added Pin To Net: NetName=RS Pin=C15-1
+Added Pin To Net: NetName=RS Pin=C16-1
+Added Pin To Net: NetName=RS Pin=C17-1
+Added Pin To Net: NetName=RS Pin=clock-6
+Added Pin To Net: NetName=RS Pin=debug-1
+Added Pin To Net: NetName=RS Pin=debugLCD-3
+Added Pin To Net: NetName=RS Pin=lcd-1
+Added Pin To Net: NetName=RS Pin=lcd-4
+Added Pin To Net: NetName=RS Pin=lcd-8
+Added Pin To Net: NetName=RS Pin=P3-2
+Added Pin To Net: NetName=RS Pin=P5-2
+Added Pin To Net: NetName=RS Pin=Q4-2
+Added Pin To Net: NetName=RS Pin=R5-1
+Added Pin To Net: NetName=RS Pin=R6-1
+Added Pin To Net: NetName=RS Pin=U1-2
+Added Pin To Net: NetName=RS Pin=U5-8
+Added Pin To Net: NetName=RS Pin=U5-16
+Added Pin To Net: NetName=RS Pin=U5-32
+Added Pin To Net: NetName=RS Pin=U6-6
+Added Pin To Net: NetName=RS Pin=u7-4
+Added Net: Name=RS
+Added Pin To Net: NetName=SCKFLASH Pin=U5-26
+Added Pin To Net: NetName=SCKFLASH Pin=u7-6
+Added Net: Name=SCKFLASH
+Added Pin To Net: NetName=SCKLCD Pin=debugLCD-4
+Added Pin To Net: NetName=SCKLCD Pin=lcd-3
+Added Pin To Net: NetName=SCKLCD Pin=U5-30
+Added Net: Name=SCKLCD
+Added Pin To Net: NetName=SCKTOUCH Pin=debugtouch-1
+Added Pin To Net: NetName=SCKTOUCH Pin=U5-4
+Added Pin To Net: NetName=SCKTOUCH Pin=U6-16
+Added Net: Name=SCKTOUCH
+Added Pin To Net: NetName=SCL Pin=clock-3
+Added Pin To Net: NetName=SCL Pin=U5-20
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=clock-4
+Added Pin To Net: NetName=SDA Pin=U5-21
+Added Net: Name=SDA
+Added Pin To Net: NetName=SQW Pin=clock-2
+Added Net: Name=SQW
+Added Pin To Net: NetName=SWCLK Pin=debug-4
+Added Pin To Net: NetName=SWCLK Pin=U5-10
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=debug-3
+Added Pin To Net: NetName=SWDIO Pin=R17-1
+Added Pin To Net: NetName=SWDIO Pin=U5-13
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=T+ Pin=C4-2
+Added Pin To Net: NetName=T+ Pin=P4-2
+Added Pin To Net: NetName=T+ Pin=R5-2
+Added Pin To Net: NetName=T+ Pin=U1-3
+Added Net: Name=T+
+Added Pin To Net: NetName=T- Pin=C5-2
+Added Pin To Net: NetName=T- Pin=P4-1
+Added Pin To Net: NetName=T- Pin=R1-2
+Added Pin To Net: NetName=T- Pin=U1-4
+Added Net: Name=T-
+Added Pin To Net: NetName=TCOUPLE Pin=C12-1
+Added Pin To Net: NetName=TCOUPLE Pin=R3-2
+Added Pin To Net: NetName=TCOUPLE Pin=U5-9
+Added Net: Name=TCOUPLE
+Added Pin To Net: NetName=TOUCHIRQ Pin=debugtouch-5
+Added Pin To Net: NetName=TOUCHIRQ Pin=R16-1
+Added Pin To Net: NetName=TOUCHIRQ Pin=U5-2
+Added Pin To Net: NetName=TOUCHIRQ Pin=U6-11
+Added Net: Name=TOUCHIRQ
+Added Pin To Net: NetName=VALVE Pin=P1-3
+Added Pin To Net: NetName=VALVE Pin=U5-12
+Added Net: Name=VALVE
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=VCC Pin=C14-2
+Added Pin To Net: NetName=VCC Pin=C15-2
+Added Pin To Net: NetName=VCC Pin=C16-2
+Added Pin To Net: NetName=VCC Pin=clock-5
+Added Pin To Net: NetName=VCC Pin=lcd-9
+Added Pin To Net: NetName=VCC Pin=lcd-10
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=VCC Pin=R12-2
+Added Pin To Net: NetName=VCC Pin=R13-2
+Added Pin To Net: NetName=VCC Pin=R14-2
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=VCC Pin=R16-2
+Added Pin To Net: NetName=VCC Pin=R17-2
+Added Pin To Net: NetName=VCC Pin=U1-5
+Added Pin To Net: NetName=VCC Pin=U5-7
+Added Pin To Net: NetName=VCC Pin=U5-15
+Added Pin To Net: NetName=VCC Pin=U6-1
+Added Pin To Net: NetName=VCC Pin=U6-9
+Added Pin To Net: NetName=VCC Pin=U6-10
+Added Pin To Net: NetName=VCC Pin=u7-3
+Added Pin To Net: NetName=VCC Pin=u7-7
+Added Pin To Net: NetName=VCC Pin=u7-8
+Added Net: Name=VCC
+Added Pin To Net: NetName=X+ Pin=lcd-17
+Added Pin To Net: NetName=X+ Pin=U6-2
+Added Net: Name=X+
+Added Pin To Net: NetName=X- Pin=lcd-15
+Added Pin To Net: NetName=X- Pin=U6-4
+Added Net: Name=X-
+Added Pin To Net: NetName=XTAL Pin=U5-18
+Added Net: Name=XTAL
+Added Pin To Net: NetName=Y+ Pin=lcd-16
+Added Pin To Net: NetName=Y+ Pin=U6-3
+Added Net: Name=Y+
+Added Pin To Net: NetName=Y- Pin=lcd-18
+Added Pin To Net: NetName=Y- Pin=U6-5
+Added Net: Name=Y-
+Added Class: Name=coffeeController
+Added Room: Name=coffeeController

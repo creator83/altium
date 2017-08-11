@@ -1,0 +1,6 @@
+Remove Pin=P4-2 From Net=PF1
+Remove Pin=P4-3 From Net=PF0
+Remove Pin=P4-4 From Net=PB1
+Remove Pin=P4-5 From Net=SWCLK
+Remove Pin=P4-6 From Net=SWDIO
+Remove Pin=U1-14 From Net=PB1

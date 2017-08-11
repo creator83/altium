@@ -1,0 +1,5 @@
+Added Component: Designator=R1(1206)
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=RESET Pin=R1-2
+Added Member To Class: ClassName=main Member=Component R1 Res 10K
+Added Room: Name=main

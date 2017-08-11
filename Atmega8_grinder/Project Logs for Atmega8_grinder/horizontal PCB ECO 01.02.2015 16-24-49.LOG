@@ -1,0 +1,6 @@
+Added Component: Designator=Q5(SOT23_L)
+Added Pin To Net: NetName=NetD1_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 QNPN
+Added Room: Name=Sheet1

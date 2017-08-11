@@ -1,0 +1,73 @@
+Added Component: Designator=DS1(4digit_seg_led 0.36")
+Added Component: Designator=P1(Pin_header8_2.54)
+Added Component: Designator=P2(Pin_header4_2.54)
+Added Component: Designator=R1(0805_1)
+Added Component: Designator=R2(0805_1)
+Added Component: Designator=R3(0805_1)
+Added Component: Designator=R4(0805_1)
+Added Component: Designator=R5(0805_1)
+Added Component: Designator=R6(0805_1)
+Added Component: Designator=R7(0805_1)
+Added Component: Designator=R8(0805_1)
+Added Pin To Net: NetName=A Pin=P1-1
+Added Pin To Net: NetName=A Pin=R1-1
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=P1-2
+Added Pin To Net: NetName=B Pin=R2-1
+Added Net: Name=B
+Added Pin To Net: NetName=C Pin=P1-3
+Added Pin To Net: NetName=C Pin=R3-1
+Added Net: Name=C
+Added Pin To Net: NetName=DIG1 Pin=DS1-1
+Added Pin To Net: NetName=DIG1 Pin=P2-1
+Added Net: Name=DIG1
+Added Pin To Net: NetName=DIG2 Pin=DS1-2
+Added Pin To Net: NetName=DIG2 Pin=P2-2
+Added Net: Name=DIG2
+Added Pin To Net: NetName=DIG3 Pin=DS1-3
+Added Pin To Net: NetName=DIG3 Pin=P2-3
+Added Net: Name=DIG3
+Added Pin To Net: NetName=DIG4 Pin=DS1-4
+Added Pin To Net: NetName=DIG4 Pin=P2-4
+Added Net: Name=DIG4
+Added Pin To Net: NetName=DP Pin=P1-8
+Added Pin To Net: NetName=DP Pin=R8-1
+Added Net: Name=DP
+Added Pin To Net: NetName=D Pin=P1-4
+Added Pin To Net: NetName=D Pin=R4-1
+Added Net: Name=D
+Added Pin To Net: NetName=E Pin=P1-5
+Added Pin To Net: NetName=E Pin=R5-1
+Added Net: Name=E
+Added Pin To Net: NetName=F Pin=P1-6
+Added Pin To Net: NetName=F Pin=R6-1
+Added Net: Name=F
+Added Pin To Net: NetName=G Pin=P1-7
+Added Pin To Net: NetName=G Pin=R7-1
+Added Net: Name=G
+Added Pin To Net: NetName=NetDS1_A Pin=DS1-A
+Added Pin To Net: NetName=NetDS1_A Pin=R1-2
+Added Net: Name=NetDS1_A
+Added Pin To Net: NetName=NetDS1_B Pin=DS1-B
+Added Pin To Net: NetName=NetDS1_B Pin=R2-2
+Added Net: Name=NetDS1_B
+Added Pin To Net: NetName=NetDS1_C Pin=DS1-C
+Added Pin To Net: NetName=NetDS1_C Pin=R3-2
+Added Net: Name=NetDS1_C
+Added Pin To Net: NetName=NetDS1_Dp Pin=DS1-Dp
+Added Pin To Net: NetName=NetDS1_Dp Pin=R8-2
+Added Net: Name=NetDS1_Dp
+Added Pin To Net: NetName=NetDS1_D Pin=DS1-D
+Added Pin To Net: NetName=NetDS1_D Pin=R4-2
+Added Net: Name=NetDS1_D
+Added Pin To Net: NetName=NetDS1_E Pin=DS1-E
+Added Pin To Net: NetName=NetDS1_E Pin=R5-2
+Added Net: Name=NetDS1_E
+Added Pin To Net: NetName=NetDS1_F Pin=DS1-F
+Added Pin To Net: NetName=NetDS1_F Pin=R6-2
+Added Net: Name=NetDS1_F
+Added Pin To Net: NetName=NetDS1_G Pin=DS1-G
+Added Pin To Net: NetName=NetDS1_G Pin=R7-2
+Added Net: Name=NetDS1_G
+Added Class: Name=stm32f030f4_grinder_indicator
+Added Room: Name=stm32f030f4_grinder_indicator

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BUTTON_ENC Pin=U4-11
+Removed Pin From Net: NetName=BUTTON Pin=U4-12
+Added Pin To Net: NetName=BUTTON Pin=U4-11
+Added Pin To Net: NetName=BUTTON_ENC Pin=U4-12
+Added Room: Name=grinder_stm8V_2

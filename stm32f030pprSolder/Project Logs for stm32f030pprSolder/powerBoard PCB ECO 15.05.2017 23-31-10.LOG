@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LOAD1 Pin=C7-1
+Removed Pin From Net: NetName=LOAD2 Pin=C8-1
+Removed Pin From Net: NetName=FASE Pin=R32-2
+Removed Pin From Net: NetName=FASE Pin=R36-2
+Removed Member From Class: ClassName=powerBoard Member=C7
+Removed Member From Class: ClassName=powerBoard Member=C8
+Removed Member From Class: ClassName=powerBoard Member=R32
+Removed Member From Class: ClassName=powerBoard Member=R36
+Added Room: Name=powerBoard

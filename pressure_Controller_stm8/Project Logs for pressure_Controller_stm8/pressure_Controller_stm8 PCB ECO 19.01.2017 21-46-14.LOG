@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=P3-2
+Added Component: Designator=P?(PIN_HEADER_2_5.08)
+Added Component: Designator=P?(PIN_HEADER_2_5.08)
+Added Pin To Net: NetName=+12 Pin=P3-2
+Added Member To Class: ClassName=pressure_Controller_stm8 Member=Component P? Pin header 2
+Added Member To Class: ClassName=pressure_Controller_stm8 Member=Component P? Pin header 2
+Added Room: Name=pressure_Controller_stm8

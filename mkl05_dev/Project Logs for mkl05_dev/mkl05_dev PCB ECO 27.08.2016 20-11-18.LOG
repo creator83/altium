@@ -1,0 +1,5 @@
+Added Component: Designator=R9(1206)
+Added Pin To Net: NetName=D4 Pin=R9-1
+Added Pin To Net: NetName=D4 Pin=R9-2
+Added Member To Class: ClassName=mkl05_dev Member=Component R9 Res 0 Ohm
+Added Room: Name=mkl05_dev

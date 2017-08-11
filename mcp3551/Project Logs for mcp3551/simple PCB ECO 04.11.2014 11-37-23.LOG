@@ -1,0 +1,5 @@
+Added Component: Designator=P5(Pin_header6_2.54)
+Added Pin To Net: NetName=+3.3V Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-6
+Added Member To Class: ClassName=sheme_simple Member=Component P5 Pin header 6
+Added Room: Name=sheme_simple

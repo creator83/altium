@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DIG1 Pin=U1-29
+Removed Pin From Net: NetName=DIG2 Pin=U1-30
+Added Pin To Net: NetName=DIG1 Pin=U1-15
+Added Pin To Net: NetName=DIG2 Pin=U1-26
+Added Room: Name=stm32f030pprSolderM

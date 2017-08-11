@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ENC_BUTTON Pin=U1-35
+Removed Pin From Net: NetName=ENC- Pin=U1-36
+Removed Pin From Net: NetName=ENC+ Pin=U1-37
+Removed Pin From Net: NetName=TILT_SENSOR Pin=U1-38
+Added Pin To Net: NetName=TILT_SENSOR Pin=U1-35
+Added Pin To Net: NetName=ENC_BUTTON Pin=U1-36
+Added Pin To Net: NetName=ENC- Pin=U1-37
+Added Pin To Net: NetName=ENC+ Pin=U1-38

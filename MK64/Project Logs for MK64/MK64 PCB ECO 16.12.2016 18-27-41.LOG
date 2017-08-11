@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ADC2 Pin=P5-4
+Removed Pin From Net: NetName=ADC3 Pin=P5-5
+Removed Pin From Net: NetName=ADC5 Pin=P5-7
+Added Pin To Net: NetName=ADC5 Pin=P5-5
+Added Pin To Net: NetName=ADC2 Pin=P5-6
+Added Pin To Net: NetName=ADC3 Pin=P5-7
+Change Net Name : Old Net Name=ADC0 New Net Name=ADC4
+Change Net Name : Old Net Name=ADC1 New Net Name=ADC0
+Added Pin To Net: NetName=ADC1 Pin=P5-4
+Added Pin To Net: NetName=ADC1 Pin=U1-19
+Added Net: Name=ADC1

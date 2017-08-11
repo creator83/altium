@@ -1,0 +1,8 @@
+Added Component: Designator=P13(Pin_header_2P_2.54_M)
+Added Pin To Net: NetName=GND Pin=P13-1
+Added Pin To Net: NetName=VBAT Pin=P13-2
+Added Pin To Net: NetName=PA0 Pin=U1-34
+Added Pin To Net: NetName=PA3 Pin=U1-37
+Added Pin To Net: NetName=EXTAL Pin=U1-50
+Added Pin To Net: NetName=PA19 Pin=U1-51
+Added Member To Class: ClassName=MK64 Member=Component P13 Pin header 2

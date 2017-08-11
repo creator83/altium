@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RPot_10k New DesignItemId=RPot 5k
+Added Component: Designator=P1(Pin_header2)
+Added Pin To Net: NetName=1~ Pin=D2-1
+Added Pin To Net: NetName=1~ Pin=D5-2
+Added Pin To Net: NetName=1~ Pin=P1-2
+Added Net: Name=1~
+Added Pin To Net: NetName=2~ Pin=D6-1
+Added Pin To Net: NetName=2~ Pin=D8-2
+Added Pin To Net: NetName=2~ Pin=P1-1
+Added Net: Name=2~
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Pin header 2
+Added Room: Name=Sheet1

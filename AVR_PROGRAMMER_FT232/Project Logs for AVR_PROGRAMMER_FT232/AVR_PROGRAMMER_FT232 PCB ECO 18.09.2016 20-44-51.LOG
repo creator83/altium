@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=USB_VCC Pin=J1-1
+Removed Pin From Net: NetName=DM Pin=R5-2
+Added Room: Name=AVR_PROGRAMMER_FT232

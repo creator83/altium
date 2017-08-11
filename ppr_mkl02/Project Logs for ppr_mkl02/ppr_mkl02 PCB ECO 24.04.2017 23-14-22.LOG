@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=A Pin=R17-2
+Removed Pin From Net: NetName=F Pin=R18-2
+Removed Pin From Net: NetName=DIG2 Pin=U2-28
+Removed Pin From Net: NetName=B Pin=U2-29
+Change Component Footprint: Designator=triacs Old Footprint=PHOENIX_1715734 New Footprint=Pin_header_3P_2.54_M
+Added Pin To Net: NetName=B Pin=U2-28
+Added Pin To Net: NetName=DIG2 Pin=U2-29
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R16 Res 10K
+Added Room: Name=ppr_mkl02

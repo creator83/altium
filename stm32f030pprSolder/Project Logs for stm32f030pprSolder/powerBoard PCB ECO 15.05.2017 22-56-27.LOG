@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=N Pin=P6-2
+Removed Pin From Net: NetName=G Pin=P6-3
+Change Component Footprint: Designator=P6 Old Footprint=3P_5_08_V_spring New Footprint=3P_5.08_G
+Added Pin To Net: NetName=G Pin=P6-2
+Added Pin To Net: NetName=N Pin=P6-3
+Added Room: Name=powerBoard

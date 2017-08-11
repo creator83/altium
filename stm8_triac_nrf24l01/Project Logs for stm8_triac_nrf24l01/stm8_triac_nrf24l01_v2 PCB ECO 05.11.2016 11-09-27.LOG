@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=VCC Pin=C4-2
+Removed Pin From Net: NetName=VCC Pin=VR1-2
+Added Component: Designator=D8(DIOM5326X230N)
+Added Pin To Net: NetName=VCC Pin=D8-1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C4-2
+Added Pin To Net: NetName=NetC2_1 Pin=D8-2
+Added Pin To Net: NetName=NetC2_1 Pin=VR1-2
+Added Net: Name=NetC2_1
+Added Member To Class: ClassName=stm8_triac_nrf24l01 Member=Component D8 1N5819
+Added Room: Name=stm8_triac_nrf24l01

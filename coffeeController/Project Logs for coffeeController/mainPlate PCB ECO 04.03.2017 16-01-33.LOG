@@ -1,0 +1,6 @@
+Added Component: Designator=R8(1206_R_0)
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Member To Class: ClassName=coffeeController Member=Component P6 Pin header 4
+Added Member To Class: ClassName=coffeeController Member=Component R8 Res 0 Ohm
+Added Room: Name=coffeeController

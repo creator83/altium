@@ -1,0 +1,8 @@
+Added Component: Designator=P2(Pin_header5_2.54)
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_5 Pin=P2-5
+Added Member To Class: ClassName=MAX6675_board Member=Component P2 Pin header 5
+Added Room: Name=MAX6675_board

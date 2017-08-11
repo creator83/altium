@@ -1,0 +1,113 @@
+Added Component: Designator=LCD1(roomlcd)
+Added Component: Designator=P1(Pin_header_5P_2.54_M)
+Added Component: Designator=R1(0603)
+Added Component: Designator=R2(TRIM_BOURNS_3266W)
+Added Component: Designator=U1(SOP63P1035X279-48N)
+Added Pin To Net: NetName=COM1 Pin=LCD1-1
+Added Pin To Net: NetName=COM1 Pin=U1-21
+Added Net: Name=COM1
+Added Pin To Net: NetName=COM2 Pin=LCD1-2
+Added Pin To Net: NetName=COM2 Pin=U1-22
+Added Net: Name=COM2
+Added Pin To Net: NetName=COM3 Pin=LCD1-3
+Added Pin To Net: NetName=COM3 Pin=U1-23
+Added Net: Name=COM3
+Added Pin To Net: NetName=COM4 Pin=LCD1-4
+Added Pin To Net: NetName=COM4 Pin=U1-24
+Added Net: Name=COM4
+Added Pin To Net: NetName=CS Pin=P1-5
+Added Pin To Net: NetName=CS Pin=R1-1
+Added Pin To Net: NetName=CS Pin=U1-9
+Added Net: Name=CS
+Added Pin To Net: NetName=DATA Pin=P1-3
+Added Pin To Net: NetName=DATA Pin=U1-12
+Added Net: Name=DATA
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-16
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=SEG1 Pin=LCD1-5
+Added Pin To Net: NetName=SEG1 Pin=U1-7
+Added Net: Name=SEG1
+Added Pin To Net: NetName=SEG2 Pin=LCD1-6
+Added Pin To Net: NetName=SEG2 Pin=U1-6
+Added Net: Name=SEG2
+Added Pin To Net: NetName=SEG3 Pin=LCD1-7
+Added Pin To Net: NetName=SEG3 Pin=U1-5
+Added Net: Name=SEG3
+Added Pin To Net: NetName=SEG4 Pin=LCD1-8
+Added Pin To Net: NetName=SEG4 Pin=U1-4
+Added Net: Name=SEG4
+Added Pin To Net: NetName=SEG5 Pin=LCD1-9
+Added Pin To Net: NetName=SEG5 Pin=U1-3
+Added Net: Name=SEG5
+Added Pin To Net: NetName=SEG6 Pin=LCD1-10
+Added Pin To Net: NetName=SEG6 Pin=U1-2
+Added Net: Name=SEG6
+Added Pin To Net: NetName=SEG7 Pin=LCD1-11
+Added Pin To Net: NetName=SEG7 Pin=U1-1
+Added Net: Name=SEG7
+Added Pin To Net: NetName=SEG8 Pin=LCD1-12
+Added Pin To Net: NetName=SEG8 Pin=U1-48
+Added Net: Name=SEG8
+Added Pin To Net: NetName=SEG9 Pin=LCD1-13
+Added Pin To Net: NetName=SEG9 Pin=U1-47
+Added Net: Name=SEG9
+Added Pin To Net: NetName=SEG10 Pin=LCD1-14
+Added Pin To Net: NetName=SEG10 Pin=U1-46
+Added Net: Name=SEG10
+Added Pin To Net: NetName=SEG11 Pin=LCD1-15
+Added Pin To Net: NetName=SEG11 Pin=U1-45
+Added Net: Name=SEG11
+Added Pin To Net: NetName=SEG12 Pin=LCD1-16
+Added Pin To Net: NetName=SEG12 Pin=U1-44
+Added Net: Name=SEG12
+Added Pin To Net: NetName=SEG13 Pin=LCD1-17
+Added Pin To Net: NetName=SEG13 Pin=U1-43
+Added Net: Name=SEG13
+Added Pin To Net: NetName=SEG14 Pin=LCD1-18
+Added Pin To Net: NetName=SEG14 Pin=U1-42
+Added Net: Name=SEG14
+Added Pin To Net: NetName=SEG15 Pin=LCD1-19
+Added Pin To Net: NetName=SEG15 Pin=U1-41
+Added Net: Name=SEG15
+Added Pin To Net: NetName=SEG16 Pin=LCD1-20
+Added Pin To Net: NetName=SEG16 Pin=U1-40
+Added Net: Name=SEG16
+Added Pin To Net: NetName=SEG17 Pin=LCD1-21
+Added Pin To Net: NetName=SEG17 Pin=U1-39
+Added Net: Name=SEG17
+Added Pin To Net: NetName=SEG18 Pin=LCD1-22
+Added Pin To Net: NetName=SEG18 Pin=U1-38
+Added Net: Name=SEG18
+Added Pin To Net: NetName=SEG19 Pin=LCD1-23
+Added Pin To Net: NetName=SEG19 Pin=U1-37
+Added Net: Name=SEG19
+Added Pin To Net: NetName=SEG20 Pin=LCD1-24
+Added Pin To Net: NetName=SEG20 Pin=U1-36
+Added Net: Name=SEG20
+Added Pin To Net: NetName=SEG21 Pin=LCD1-25
+Added Pin To Net: NetName=SEG21 Pin=U1-35
+Added Net: Name=SEG21
+Added Pin To Net: NetName=SEG22 Pin=LCD1-26
+Added Pin To Net: NetName=SEG22 Pin=U1-34
+Added Net: Name=SEG22
+Added Pin To Net: NetName=SEG23 Pin=LCD1-27
+Added Pin To Net: NetName=SEG23 Pin=U1-33
+Added Net: Name=SEG23
+Added Pin To Net: NetName=SEG24 Pin=LCD1-28
+Added Pin To Net: NetName=SEG24 Pin=U1-32
+Added Net: Name=SEG24
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-3
+Added Pin To Net: NetName=VCC Pin=U1-17
+Added Net: Name=VCC
+Added Pin To Net: NetName=WR Pin=P1-4
+Added Pin To Net: NetName=WR Pin=U1-11
+Added Net: Name=WR
+Added Class: Name=roomLcd
+Added Room: Name=roomLcd

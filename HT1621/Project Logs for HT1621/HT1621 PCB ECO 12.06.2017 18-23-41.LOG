@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SEG7 Pin=LCD1-5
+Removed Pin From Net: NetName=SEG6 Pin=LCD1-6
+Removed Pin From Net: NetName=SEG5 Pin=LCD1-7
+Removed Pin From Net: NetName=SEG3 Pin=LCD1-9
+Removed Pin From Net: NetName=SEG2 Pin=LCD1-10
+Removed Pin From Net: NetName=SEG1 Pin=LCD1-11
+Added Pin To Net: NetName=SEG1 Pin=LCD1-5
+Added Pin To Net: NetName=SEG2 Pin=LCD1-6
+Added Pin To Net: NetName=SEG3 Pin=LCD1-7
+Added Pin To Net: NetName=SEG5 Pin=LCD1-9
+Added Pin To Net: NetName=SEG6 Pin=LCD1-10
+Added Pin To Net: NetName=SEG7 Pin=LCD1-11

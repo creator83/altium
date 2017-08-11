@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=P4-18
+Change Component Footprint: Designator=R3 Old Footprint=1206 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R6 Old Footprint=1206 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=U1 Old Footprint=Pin_header_tqfp_100 New Footprint=PZ100_L
+Change Component Footprint: Designator=C14 Old Footprint=RB2.5-12 New Footprint=C1206
+Change Component Footprint: Designator=C15 Old Footprint=RB2.5-12 New Footprint=C1206
+Added Pin To Net: NetName=AREF Pin=P4-18
+Added Member To Class: ClassName=KL26Z_simple Member=Component X1 Cristal
+Added Room: Name=KL26Z_simple

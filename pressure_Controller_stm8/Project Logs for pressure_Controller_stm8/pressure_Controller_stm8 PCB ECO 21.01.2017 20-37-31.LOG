@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SENSOR1 Pin=P6-1
+Removed Pin From Net: NetName=VCC Pin=P6-3
+Added Pin To Net: NetName=VCC Pin=P6-1
+Added Pin To Net: NetName=SENSOR1 Pin=P6-3
+Added Room: Name=pressure_Controller_stm8

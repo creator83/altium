@@ -1,0 +1,54 @@
+Added Component: Designator=C1(0805_C)
+Added Component: Designator=C2(CAPPR200-500X700)
+Added Component: Designator=C3(CAPPR200-500X700)
+Added Component: Designator=P1(Pin_header_2P_2.54_M)
+Added Component: Designator=P2(PIN_HEADER_2_5.08)
+Added Component: Designator=P3(PIN_HEADER_1P_2.54_M)
+Added Component: Designator=R1(TRIM_BOURNS_3266W)
+Added Component: Designator=R2(TRIM_BOURNS_3266W)
+Added Component: Designator=R3(1206_R)
+Added Component: Designator=U1(DIPS8-300)
+Added Component: Designator=U2(DIPS8-300)
+Added Pin To Net: NetName=-5 Pin=C3-2
+Added Pin To Net: NetName=-5 Pin=U1-4
+Added Pin To Net: NetName=-5 Pin=U2-5
+Added Net: Name=-5
+Added Pin To Net: NetName=ADC Pin=C1-2
+Added Pin To Net: NetName=ADC Pin=P3-1
+Added Pin To Net: NetName=ADC Pin=R3-2
+Added Pin To Net: NetName=ADC Pin=U1-6
+Added Net: Name=ADC
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-3
+Added Pin To Net: NetName=NetC1_1 Pin=R3-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U2-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U2-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_3 Pin=R1-3
+Added Pin To Net: NetName=NetR1_3 Pin=U1-8
+Added Net: Name=NetR1_3
+Added Pin To Net: NetName=THERMOCOUPLE Pin=P2-1
+Added Pin To Net: NetName=THERMOCOUPLE Pin=U1-3
+Added Net: Name=THERMOCOUPLE
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Net: Name=VCC
+Added Class: Name=OP07_AMP
+Added Room: Name=OP07_AMP

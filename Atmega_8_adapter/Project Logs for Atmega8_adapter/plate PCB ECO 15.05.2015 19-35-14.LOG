@@ -1,0 +1,63 @@
+Added Component: Designator=U1(32A_N)
+Added Pin To Net: NetName=AREF Pin=U1-20
+Added Net: Name=AREF
+Added Pin To Net: NetName=AVCC Pin=U1-18
+Added Net: Name=AVCC
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP1_8 Pin=U1-19
+Added Net: Name=NetP1_8
+Added Pin To Net: NetName=NetP1_9 Pin=U1-22
+Added Net: Name=NetP1_9
+Added Pin To Net: NetName=NetP1_10 Pin=U1-23
+Added Net: Name=NetP1_10
+Added Pin To Net: NetName=NetP1_11 Pin=U1-24
+Added Net: Name=NetP1_11
+Added Pin To Net: NetName=NetP1_12 Pin=U1-25
+Added Net: Name=NetP1_12
+Added Pin To Net: NetName=NetP1_13 Pin=U1-26
+Added Net: Name=NetP1_13
+Added Pin To Net: NetName=NetP1_14 Pin=U1-27
+Added Net: Name=NetP1_14
+Added Pin To Net: NetName=NetP1_15 Pin=U1-28
+Added Net: Name=NetP1_15
+Added Pin To Net: NetName=NetP1_16 Pin=U1-29
+Added Net: Name=NetP1_16
+Added Pin To Net: NetName=NetP2_1 Pin=U1-12
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=U1-13
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP2_3 Pin=U1-14
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=U1-15
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetP2_5 Pin=U1-16
+Added Net: Name=NetP2_5
+Added Pin To Net: NetName=NetP2_6 Pin=U1-17
+Added Net: Name=NetP2_6
+Added Pin To Net: NetName=NetP2_7 Pin=U1-7
+Added Net: Name=NetP2_7
+Added Pin To Net: NetName=NetP2_8 Pin=U1-8
+Added Net: Name=NetP2_8
+Added Pin To Net: NetName=NetP2_9 Pin=U1-30
+Added Net: Name=NetP2_9
+Added Pin To Net: NetName=NetP2_10 Pin=U1-31
+Added Net: Name=NetP2_10
+Added Pin To Net: NetName=NetP2_11 Pin=U1-32
+Added Net: Name=NetP2_11
+Added Pin To Net: NetName=NetP2_12 Pin=U1-1
+Added Net: Name=NetP2_12
+Added Pin To Net: NetName=NetP2_13 Pin=U1-2
+Added Net: Name=NetP2_13
+Added Pin To Net: NetName=NetP2_14 Pin=U1-9
+Added Net: Name=NetP2_14
+Added Pin To Net: NetName=NetP2_15 Pin=U1-10
+Added Net: Name=NetP2_15
+Added Pin To Net: NetName=NetP2_16 Pin=U1-11
+Added Net: Name=NetP2_16
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Net: Name=VCC
+Added Class: Name=Sheet1

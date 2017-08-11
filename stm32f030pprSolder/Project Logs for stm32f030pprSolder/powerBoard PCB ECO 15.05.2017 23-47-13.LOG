@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LOAD1 Pin=P8-1
+Removed Pin From Net: NetName=N Pin=P8-2
+Removed Pin From Net: NetName=LOAD2 Pin=P9-1
+Removed Pin From Net: NetName=N Pin=P9-2
+Removed Member From Class: ClassName=powerBoard Member=P8
+Removed Member From Class: ClassName=powerBoard Member=P9
+Added Component: Designator=out(3P_5_08_V_spring)
+Added Pin To Net: NetName=LOAD1 Pin=out-1
+Added Pin To Net: NetName=LOAD2 Pin=out-2
+Added Pin To Net: NetName=N Pin=out-3
+Added Member To Class: ClassName=powerBoard Member=Component out Pin header 3

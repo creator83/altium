@@ -1,0 +1,23 @@
+Added Component: Designator=C17(1206)
+Added Component: Designator=C18(1206)
+Added Component: Designator=D3(0805_1)
+Added Component: Designator=R41(1206)
+Added Component: Designator=VR2(SOT223_N)
+Added Pin To Net: NetName=+5 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=3V3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetP8_15 Pin=P8-15
+Added Pin To Net: NetName=GND Pin=P8-16
+Added Pin To Net: NetName=3V3 Pin=R41-1
+Added Pin To Net: NetName=GND Pin=VR2-1
+Added Pin To Net: NetName=3V3 Pin=VR2-2
+Added Pin To Net: NetName=+5 Pin=VR2-3
+Added Member To Class: ClassName=butt Member=Component C17 Cap 10uf 16v tantalum
+Added Member To Class: ClassName=butt Member=Component C18 Cap 22uf 16v tantalum
+Added Member To Class: ClassName=butt Member=Component D3 LED1_smd
+Added Member To Class: ClassName=butt Member=Component R41 Res 330
+Added Member To Class: ClassName=butt Member=Component VR2 ams1117-3.3
+Added Room: Name=butt
+Added Room: Name=main_board

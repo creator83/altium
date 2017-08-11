@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-9
+Removed Pin From Net: NetName=NetC5_2 Pin=U1-11
+Removed Pin From Net: NetName=NetC6_2 Pin=U1-13
+Added Component: Designator=R7(1206)
+Added Component: Designator=R8(1206)
+Added Component: Designator=R9(1206)
+Added Pin To Net: NetName=NetC4_2 Pin=R7-1
+Added Pin To Net: NetName=NetC5_2 Pin=R8-1
+Added Pin To Net: NetName=NetC6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-9
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-11
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U1-13
+Added Net: Name=NetR9_2
+Added Member To Class: ClassName=Sheet1 Member=Component R7 Res 0 Ohm
+Added Member To Class: ClassName=Sheet1 Member=Component R8 Res 0 Ohm
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Res 0 Ohm
+Added Room: Name=Sheet1

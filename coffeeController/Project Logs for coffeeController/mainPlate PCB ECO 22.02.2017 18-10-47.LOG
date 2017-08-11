@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RS Pin=C2-1
+Removed Pin From Net: NetName=VCC Pin=C2-2
+Removed Pin From Net: NetName=RS Pin=debugLCD-3
+Removed Pin From Net: NetName=RS Pin=lcd-4
+Removed Pin From Net: NetName=RS Pin=U5-32
+Removed Member From Class: ClassName=coffeeController Member=C2
+Change Net Name : Old Net Name=RS New Net Name=GND
+Added Pin To Net: NetName=RS Pin=debugLCD-3
+Added Pin To Net: NetName=RS Pin=lcd-4
+Added Pin To Net: NetName=RS Pin=U5-32
+Added Net: Name=RS
+Added Room: Name=coffeeController

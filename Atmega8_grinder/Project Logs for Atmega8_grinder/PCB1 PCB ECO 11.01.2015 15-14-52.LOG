@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Added Component: Designator=R20(1206)
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetQ5_2 Pin=R20-2
+Added Member To Class: ClassName=Sheet1 Member=Component R20 Res_1206_10K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 Res_1206_10K
+Added Room: Name=Sheet1

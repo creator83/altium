@@ -1,0 +1,124 @@
+Added Component: Designator=P1(Pin_header_20PX2_2.54_F_1)
+Added Component: Designator=P2(Pin_header40_0.5)
+Added Pin To Net: NetName=1 Pin=P1-1
+Added Pin To Net: NetName=1 Pin=P2-1
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=P1-2
+Added Pin To Net: NetName=2 Pin=P2-2
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=P1-3
+Added Pin To Net: NetName=3 Pin=P2-3
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=P1-4
+Added Pin To Net: NetName=4 Pin=P2-4
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=P1-5
+Added Pin To Net: NetName=5 Pin=P2-5
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=P1-6
+Added Pin To Net: NetName=6 Pin=P2-6
+Added Net: Name=6
+Added Pin To Net: NetName=7 Pin=P1-7
+Added Pin To Net: NetName=7 Pin=P2-7
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=P1-8
+Added Pin To Net: NetName=8 Pin=P2-8
+Added Net: Name=8
+Added Pin To Net: NetName=9 Pin=P1-9
+Added Pin To Net: NetName=9 Pin=P2-9
+Added Net: Name=9
+Added Pin To Net: NetName=10 Pin=P1-10
+Added Pin To Net: NetName=10 Pin=P2-10
+Added Net: Name=10
+Added Pin To Net: NetName=11 Pin=P1-11
+Added Pin To Net: NetName=11 Pin=P2-11
+Added Net: Name=11
+Added Pin To Net: NetName=12 Pin=P1-12
+Added Pin To Net: NetName=12 Pin=P2-12
+Added Net: Name=12
+Added Pin To Net: NetName=13 Pin=P1-13
+Added Pin To Net: NetName=13 Pin=P2-13
+Added Net: Name=13
+Added Pin To Net: NetName=14 Pin=P1-14
+Added Pin To Net: NetName=14 Pin=P2-14
+Added Net: Name=14
+Added Pin To Net: NetName=15 Pin=P1-15
+Added Pin To Net: NetName=15 Pin=P2-15
+Added Net: Name=15
+Added Pin To Net: NetName=16 Pin=P1-16
+Added Pin To Net: NetName=16 Pin=P2-16
+Added Net: Name=16
+Added Pin To Net: NetName=17 Pin=P1-17
+Added Pin To Net: NetName=17 Pin=P2-17
+Added Net: Name=17
+Added Pin To Net: NetName=18 Pin=P1-18
+Added Pin To Net: NetName=18 Pin=P2-18
+Added Net: Name=18
+Added Pin To Net: NetName=19 Pin=P1-19
+Added Pin To Net: NetName=19 Pin=P2-19
+Added Net: Name=19
+Added Pin To Net: NetName=20 Pin=P1-20
+Added Pin To Net: NetName=20 Pin=P2-20
+Added Net: Name=20
+Added Pin To Net: NetName=21 Pin=P1-21
+Added Pin To Net: NetName=21 Pin=P2-21
+Added Net: Name=21
+Added Pin To Net: NetName=22 Pin=P1-22
+Added Pin To Net: NetName=22 Pin=P2-22
+Added Net: Name=22
+Added Pin To Net: NetName=23 Pin=P1-23
+Added Pin To Net: NetName=23 Pin=P2-23
+Added Net: Name=23
+Added Pin To Net: NetName=24 Pin=P1-24
+Added Pin To Net: NetName=24 Pin=P2-24
+Added Net: Name=24
+Added Pin To Net: NetName=25 Pin=P1-25
+Added Pin To Net: NetName=25 Pin=P2-25
+Added Net: Name=25
+Added Pin To Net: NetName=26 Pin=P1-26
+Added Pin To Net: NetName=26 Pin=P2-26
+Added Net: Name=26
+Added Pin To Net: NetName=27 Pin=P1-27
+Added Pin To Net: NetName=27 Pin=P2-27
+Added Net: Name=27
+Added Pin To Net: NetName=28 Pin=P1-28
+Added Pin To Net: NetName=28 Pin=P2-28
+Added Net: Name=28
+Added Pin To Net: NetName=29 Pin=P1-29
+Added Pin To Net: NetName=29 Pin=P2-29
+Added Net: Name=29
+Added Pin To Net: NetName=30 Pin=P1-30
+Added Pin To Net: NetName=30 Pin=P2-30
+Added Net: Name=30
+Added Pin To Net: NetName=31 Pin=P1-31
+Added Pin To Net: NetName=31 Pin=P2-31
+Added Net: Name=31
+Added Pin To Net: NetName=32 Pin=P1-32
+Added Pin To Net: NetName=32 Pin=P2-32
+Added Net: Name=32
+Added Pin To Net: NetName=33 Pin=P1-33
+Added Pin To Net: NetName=33 Pin=P2-33
+Added Net: Name=33
+Added Pin To Net: NetName=34 Pin=P1-34
+Added Pin To Net: NetName=34 Pin=P2-34
+Added Net: Name=34
+Added Pin To Net: NetName=35 Pin=P1-35
+Added Pin To Net: NetName=35 Pin=P2-35
+Added Net: Name=35
+Added Pin To Net: NetName=36 Pin=P1-36
+Added Pin To Net: NetName=36 Pin=P2-36
+Added Net: Name=36
+Added Pin To Net: NetName=37 Pin=P1-37
+Added Pin To Net: NetName=37 Pin=P2-37
+Added Net: Name=37
+Added Pin To Net: NetName=38 Pin=P1-38
+Added Pin To Net: NetName=38 Pin=P2-38
+Added Net: Name=38
+Added Pin To Net: NetName=39 Pin=P1-39
+Added Pin To Net: NetName=39 Pin=P2-39
+Added Net: Name=39
+Added Pin To Net: NetName=40 Pin=P1-40
+Added Pin To Net: NetName=40 Pin=P2-40
+Added Net: Name=40
+Added Class: Name=lcd40
+Added Room: Name=lcd40

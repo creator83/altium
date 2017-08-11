@@ -1,0 +1,10 @@
+Added Component: Designator=D1(0805_R)
+Added Component: Designator=R3(0805_R)
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R3-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=mkl05_simple Member=Component D1 LED1_smd
+Added Member To Class: ClassName=mkl05_simple Member=Component R3 Res 360
+Added Room: Name=mkl05_simple

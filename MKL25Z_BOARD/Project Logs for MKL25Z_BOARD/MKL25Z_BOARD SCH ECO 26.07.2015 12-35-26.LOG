@@ -1,0 +1,3 @@
+Remove Pin=P12-2 From Net=PTA19
+Remove Pin=P13-1 From Net=PTA18
+Remove Pin=P14-2 From Net=3V3

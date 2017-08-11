@@ -1,0 +1,21 @@
+Added Component: Designator=P2(Pin_header18_0.8)
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=RESET Pin=P2-2
+Added Pin To Net: NetName=CLK Pin=P2-3
+Added Pin To Net: NetName=RS Pin=P2-4
+Added Pin To Net: NetName=CS Pin=P2-5
+Added Pin To Net: NetName=MOSI Pin=P2-6
+Added Pin To Net: NetName=MISO Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=VCC Pin=P2-9
+Added Pin To Net: NetName=A Pin=P2-10
+Added Pin To Net: NetName=K Pin=P2-11
+Added Pin To Net: NetName=K Pin=P2-12
+Added Pin To Net: NetName=K Pin=P2-13
+Added Pin To Net: NetName=K Pin=P2-14
+Added Pin To Net: NetName=XL Pin=P2-15
+Added Pin To Net: NetName=YU Pin=P2-16
+Added Pin To Net: NetName=XR Pin=P2-17
+Added Pin To Net: NetName=YD Pin=P2-18
+Added Member To Class: ClassName=ILI9341 Member=Component P2 Pin header LCD_18
+Added Room: Name=ILI9341

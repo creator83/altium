@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SWCLK Pin=U1-34
+Added Pin To Net: NetName=SWDIO Pin=U1-37
+Added Pin To Net: NetName=PA18 Pin=U1-50
+Added Pin To Net: NetName=XTAL Pin=U1-51

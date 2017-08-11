@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=HEATER Pin=U5-20
+Added Component: Designator=P7(Pin_header_3P_2.54_M)
+Added Pin To Net: NetName=VCC Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=HEATER Pin=U5-21
+Added Pin To Net: NetName=TCOMP Pin=P7-2
+Added Net: Name=TCOMP
+Added Member To Class: ClassName=coffeeController Member=Component P7 Pin header 3
+Added Room: Name=coffeeController

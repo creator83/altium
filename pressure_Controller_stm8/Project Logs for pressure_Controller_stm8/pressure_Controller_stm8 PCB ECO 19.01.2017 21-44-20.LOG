@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P3 Old Footprint=Pin_header_2P_2.54_M New Footprint=PIN_HEADER_2_5.08
+Added Component: Designator=P?(PIN_HEADER_2_5.08)
+Added Component: Designator=P?(PIN_HEADER_2_5.08)
+Added Member To Class: ClassName=pressure_Controller_stm8 Member=Component P? Pin header 2
+Added Member To Class: ClassName=pressure_Controller_stm8 Member=Component P? Pin header 2
+Added Room: Name=pressure_Controller_stm8

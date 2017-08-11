@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC Pin=C12-2
+Added Pin To Net: NetName=VCC Pin=C13-2
+Added Pin To Net: NetName=VCC Pin=U1-9
+Added Room: Name=obLinkStm32f072

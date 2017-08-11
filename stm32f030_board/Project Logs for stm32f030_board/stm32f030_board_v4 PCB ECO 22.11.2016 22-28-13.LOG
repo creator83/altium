@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-2
+Change Net Name : Old Net Name=NetP3_1 New Net Name=A7
+Change Net Name : Old Net Name=NetP3_2 New Net Name=A6
+Change Net Name : Old Net Name=NetP3_3 New Net Name=A5
+Change Net Name : Old Net Name=NetP3_4 New Net Name=A4
+Change Net Name : Old Net Name=NetP3_5 New Net Name=A3
+Change Net Name : Old Net Name=NetP3_6 New Net Name=A2
+Change Net Name : Old Net Name=NetP3_7 New Net Name=A1
+Change Net Name : Old Net Name=NetP3_8 New Net Name=A0
+Change Net Name : Old Net Name=NetP5_7 New Net Name=A10
+Change Net Name : Old Net Name=NetP5_8 New Net Name=A9
+Added Room: Name=stm32f030_board

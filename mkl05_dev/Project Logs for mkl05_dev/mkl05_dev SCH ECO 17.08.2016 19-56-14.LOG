@@ -1,0 +1,4 @@
+Remove Pin=P11-15 From Net=CSA
+Remove Pin=P11-16 From Net=CS_5110
+Change Pin Designator/Name:  Old Designator=P11-19 Old Name=A New Designator =CSA New Name=15
+Change Pin Designator/Name:  Old Designator=P11-20 Old Name=K New Designator =CSB New Name=16

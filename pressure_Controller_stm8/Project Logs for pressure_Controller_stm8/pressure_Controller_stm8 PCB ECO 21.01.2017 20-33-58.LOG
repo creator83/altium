@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FASE Pin=P8-1
+Removed Pin From Net: NetName=G Pin=P8-3
+Added Pin To Net: NetName=G Pin=P8-1
+Added Pin To Net: NetName=FASE Pin=P8-3
+Added Room: Name=pressure_Controller_stm8

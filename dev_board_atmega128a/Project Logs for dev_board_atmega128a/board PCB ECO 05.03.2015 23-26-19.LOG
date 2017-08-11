@@ -1,0 +1,14 @@
+Added Component: Designator=P4(Pin_header8_2.54)
+Added Pin To Net: NetName=5110_RST Pin=P4-1
+Added Pin To Net: NetName=5110_CE Pin=P4-2
+Added Pin To Net: NetName=5110_DC Pin=P4-3
+Added Pin To Net: NetName=MOSI Pin=P4-4
+Added Pin To Net: NetName=SCK Pin=P4-5
+Added Pin To Net: NetName=3V3 Pin=P4-6
+Added Pin To Net: NetName=3V3 Pin=P4-7
+Added Pin To Net: NetName=GND Pin=P4-8
+Added Pin To Net: NetName=CSA Pin=P8-15
+Added Pin To Net: NetName=CSB Pin=P8-16
+Added Member To Class: ClassName=main_board Member=Component P4 5110_pin header 8
+Added Room: Name=butt
+Added Room: Name=main_board

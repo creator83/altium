@@ -1,0 +1,42 @@
+Added Component: Designator=C1(0805_1)
+Added Component: Designator=P1(Pin_header2_2.54)
+Added Component: Designator=P2(Pin_header4_2.54)
+Added Component: Designator=P3(Pin_header2_2.54)
+Added Component: Designator=R1(0805_1)
+Added Component: Designator=R2(0805_1)
+Added Component: Designator=R3(0805_1)
+Added Component: Designator=u1(SO-16_ds3231)
+Added Pin To Net: NetName=CS Pin=P2-1
+Added Pin To Net: NetName=CS Pin=R2-1
+Added Pin To Net: NetName=CS Pin=u1-7
+Added Net: Name=CS
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=u1-10
+Added Net: Name=GND
+Added Pin To Net: NetName=HOLD Pin=P3-1
+Added Pin To Net: NetName=HOLD Pin=R1-1
+Added Pin To Net: NetName=HOLD Pin=u1-1
+Added Net: Name=HOLD
+Added Pin To Net: NetName=MISO Pin=P2-2
+Added Pin To Net: NetName=MISO Pin=u1-8
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P2-3
+Added Pin To Net: NetName=MOSI Pin=u1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=P2-4
+Added Pin To Net: NetName=SCK Pin=u1-16
+Added Net: Name=SCK
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=u1-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=WP Pin=P3-2
+Added Pin To Net: NetName=WP Pin=R3-2
+Added Pin To Net: NetName=WP Pin=u1-9
+Added Net: Name=WP
+Added Class: Name=M25P32
+Added Room: Name=M25P32

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=+5 Pin=R1-1
+Removed Pin From Net: NetName=+5 Pin=U1-4
+Removed Pin From Net: NetName=+5 Pin=U1-6
+Change Component Footprint: Designator=R1 Old Footprint=1206 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R10 Old Footprint=1206 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R11 Old Footprint=1206 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R12 Old Footprint=1206 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R13 Old Footprint=1206 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=P4 Old Footprint=Pin_header2_2.54 New Footprint=Pin_header2
+Change Component Footprint: Designator=P6 Old Footprint=Pin_header4_1.27 New Footprint=Pin_header 4_5.08
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.1 New Footprint=C1206
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.1 New Footprint=C1206
+Added Component: Designator=P2(RF_pin_header_4_2)
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=3V3 Pin=P2-2
+Added Pin To Net: NetName=CE Pin=P2-3
+Added Pin To Net: NetName=CS_RF Pin=P2-4
+Added Pin To Net: NetName=SCK Pin=P2-5
+Added Pin To Net: NetName=MOSI Pin=P2-6
+Added Pin To Net: NetName=MISO Pin=P2-7
+Added Pin To Net: NetName=INT1 Pin=P2-8
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Member To Class: ClassName=main Member=Component P2 RF_pin header 4_2
+Added Member To Class: ClassName=main Member=Component P5 DC jack 5.5-2.1
+Added Room: Name=main

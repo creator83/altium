@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=FASE Pin=T1-1
+Removed Pin From Net: NetName=N Pin=T1-4
+Added Pin To Net: NetName=N Pin=T1-1
+Added Pin To Net: NetName=FASE Pin=T1-4
+Added Member To Class: ClassName=power_supply Member=Component P1 Pin header 3
+Added Room: Name=power_supply

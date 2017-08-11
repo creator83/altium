@@ -1,0 +1,62 @@
+Added Component: Designator=C1(RB9.5-35)
+Added Component: Designator=C2(RB2.5-12)
+Added Component: Designator=C3(RB4.5-13)
+Added Component: Designator=D2(DO-201AD)
+Added Component: Designator=D5(DO-201AD)
+Added Component: Designator=D6(DO-201AD)
+Added Component: Designator=D8(DO-201AD)
+Added Component: Designator=D9(DO-41)
+Added Component: Designator=P?(Pin_header 4_5.08)
+Added Component: Designator=Q?(TO-220-AB)
+Added Component: Designator=R1(Res_Pot)
+Added Component: Designator=R2(AXIAL-0.9)
+Added Component: Designator=R3(AXIAL-0.9)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=VR1(LT1083CP)
+Added Pin To Net: NetName=+ Pin=C1-1
+Added Pin To Net: NetName=- Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=- Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=- Pin=C3-2
+Added Pin To Net: NetName=~ Pin=D2-1
+Added Pin To Net: NetName=+ Pin=D2-2
+Added Pin To Net: NetName=- Pin=D5-1
+Added Pin To Net: NetName=~ Pin=D5-2
+Added Pin To Net: NetName=~ Pin=D6-1
+Added Pin To Net: NetName=+ Pin=D6-2
+Added Pin To Net: NetName=- Pin=D8-1
+Added Pin To Net: NetName=~ Pin=D8-2
+Added Pin To Net: NetName=NetC3_1 Pin=D9-1
+Added Pin To Net: NetName=+ Pin=D9-2
+Added Pin To Net: NetName=- Pin=P?-1
+Added Pin To Net: NetName=~ Pin=P?-1
+Added Pin To Net: NetName=NetC3_1 Pin=P?-2
+Added Pin To Net: NetName=~ Pin=P?-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Pin To Net: NetName=- Pin=R1-2
+Added Pin To Net: NetName=- Pin=R1-3
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Pin To Net: NetName=+ Pin=VR1-1
+Added Pin To Net: NetName=NetC2_1 Pin=VR1-2
+Added Pin To Net: NetName=NetC3_1 Pin=VR1-3
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Pol_3300_50V
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap Pol_10_50V
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Pol_100_50V
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Diode 1N5408
+Added Member To Class: ClassName=Sheet1 Member=Component D5 Diode 1N5408
+Added Member To Class: ClassName=Sheet1 Member=Component D6 Diode 1N5408
+Added Member To Class: ClassName=Sheet1 Member=Component D8 Diode 1N5408
+Added Member To Class: ClassName=Sheet1 Member=Component D9 Diode 1N4007
+Added Member To Class: ClassName=Sheet1 Member=Component P? Pin header 4
+Added Member To Class: ClassName=Sheet1 Member=Component Q? CEP50N06
+Added Member To Class: ClassName=Sheet1 Member=Component R1 RPot_10k
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res_470_3W
+Added Member To Class: ClassName=Sheet1 Member=Component R3 Res_470_3W
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res 100
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 LT-1083-adj
+Added Room: Name=Sheet1

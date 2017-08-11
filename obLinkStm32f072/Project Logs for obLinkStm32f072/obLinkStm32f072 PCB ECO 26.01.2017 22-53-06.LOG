@@ -1,0 +1,5 @@
+Added Component: Designator=R14(1206_R_0)
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Member To Class: ClassName=obLinkStm32f072 Member=Component R14 Res 0 Ohm
+Added Room: Name=obLinkStm32f072

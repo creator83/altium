@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=VR1 Old Footprint=SOT223_L New Footprint=SOT223
+Added Component: Designator=P1(Pin_header6_2.54)
+Added Component: Designator=P1(Encoder w Button)
+Added Component: Designator=P2(Pin_header4_2.54)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=BUTTON1 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=BUTTON_ENC Pin=P1-4
+Added Pin To Net: NetName=NetP1_2 Pin=P1-4
+Added Pin To Net: NetName=ENC1 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetK1_3 Pin=P2-1
+Added Pin To Net: NetName=NetP1_1 Pin=P2-1
+Added Pin To Net: NetName=NetK1_1 Pin=P2-2
+Added Pin To Net: NetName=NetP1_2 Pin=P2-2
+Added Pin To Net: NetName=NetP1_3 Pin=P2-3
+Added Pin To Net: NetName=NetP1_5 Pin=P2-4
+Added Member To Class: ClassName=encoder Member=Component P1 Encoder
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Pin header 6
+Added Member To Class: ClassName=encoder Member=Component P2 encoder_pin header_4
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Pin header 2
+Added Room: Name=encoder
+Added Room: Name=Sheet1

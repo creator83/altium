@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TRIAC1 Pin=U1-19
+Added Pin To Net: NetName=TRIAC1 Pin=U1-10
+Added Member To Class: ClassName=stm8_triac_nrf24l01 Member=Component P1 Pin header 3
+Added Room: Name=stm8_triac_nrf24l01

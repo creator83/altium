@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=RESET Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=VDD Pin=P1-3
+Removed Pin From Net: NetName=SWDIO Pin=P1-4
+Removed Pin From Net: NetName=SWCLK Pin=P1-5
+Removed Pin From Net: NetName=PA17 Pin=P3-1
+Removed Pin From Net: NetName=PA16 Pin=P3-2
+Removed Pin From Net: NetName=PA15 Pin=P3-3
+Removed Pin From Net: NetName=PA14 Pin=P3-4
+Removed Pin From Net: NetName=PA13 Pin=P3-5
+Removed Pin From Net: NetName=PA12 Pin=P3-6
+Removed Pin From Net: NetName=PA7 Pin=P3-7
+Removed Pin From Net: NetName=PA6 Pin=P3-8
+Removed Pin From Net: NetName=PA5 Pin=P3-9
+Removed Pin From Net: NetName=PA4 Pin=P3-10
+Removed Pin From Net: NetName=PA1/USART0_RX Pin=P5-1
+Removed Pin From Net: NetName=PA2/USART0_TX Pin=P5-2
+Removed Pin From Net: NetName=GND Pin=P10-1
+Removed Pin From Net: NetName=VDD Pin=P10-2
+Removed Member From Class: ClassName=KL26Z_BOARD Member=P5
+Removed Member From Class: ClassName=KL26Z_BOARD Member=P10
+Change Component Footprint: Designator=C1 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C2 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C3 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C4 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C5 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C6 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C11 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C12 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=C13 Old Footprint=0805_1 New Footprint=0603_C
+Change Component Footprint: Designator=D1 Old Footprint=0805_1 New Footprint=0805_R
+Change Component Footprint: Designator=R2 Old Footprint=0805_1 New Footprint=0805_R
+Change Component Footprint: Designator=R3 Old Footprint=0805_1 New Footprint=0805_R
+Change Component Footprint: Designator=C7 Old Footprint=1206 New Footprint=0603_C
+Change Component Footprint: Designator=C8 Old Footprint=1206 New Footprint=0603_C
+Change Component Footprint: Designator=C9 Old Footprint=1206 New Footprint=0603_C
+Change Component Footprint: Designator=C10 Old Footprint=1206 New Footprint=0603_C
+Change Component Footprint: Designator=R1 Old Footprint=1206 New Footprint=1206_R
+Change Component Footprint: Designator=X1 Old Footprint=CRISTAL 5MM New Footprint=XTAL_HC-49/S
+Change Component Footprint: Designator=P1 Old Footprint=Pin_header5_2.54 New Footprint=Pin_header_4P_2.54_M
+Change Component Footprint: Designator=P3 Old Footprint=Pin_header10_2.54 New Footprint=Pin_header_4P_2.54_M
+Change Component Comment : Designator=P1 Old Comment=Pin header 5 New Comment=Pin header 4
+Change Component Comment : Designator=P3 Old Comment=Pin header 10 New Comment=Pin header 4
+Change Component Comment : Designator=R2 Old Comment=Res 360 New Comment=Res 390
+Change Component Designator: OldDesignator=P2 NewDesignator=P11
+Change Component Designator: OldDesignator=P4 NewDesignator=P13
+Change Component Designator: OldDesignator=P6 NewDesignator=P15
+Change Component Designator: OldDesignator=P7 NewDesignator=P16
+Change Component Designator: OldDesignator=P8 NewDesignator=P17
+Change Component Designator: OldDesignator=P9 NewDesignator=P18
+Change Component Designator: OldDesignator=P11 NewDesignator=P20
+Change Component Designator: OldDesignator=P12 NewDesignator=P21
+Change Component Designator: OldDesignator=P13 NewDesignator=P22
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Added Component: Designator=P2(Pin_header_8P_2.54_M)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=RESET Pin=P1-2
+Added Pin To Net: NetName=SWDIO Pin=P1-3
+Added Pin To Net: NetName=SWCLK Pin=P1-4
+Added Pin To Net: NetName=PA17 Pin=P2-1
+Added Pin To Net: NetName=PA16 Pin=P2-2
+Added Pin To Net: NetName=PA15 Pin=P2-3
+Added Pin To Net: NetName=PA14 Pin=P2-4
+Added Pin To Net: NetName=PA13 Pin=P2-5
+Added Pin To Net: NetName=PA12 Pin=P2-6
+Added Pin To Net: NetName=PA7 Pin=P2-7
+Added Pin To Net: NetName=PA6 Pin=P2-8
+Added Pin To Net: NetName=PA5 Pin=P3-1
+Added Pin To Net: NetName=PA4 Pin=P3-2
+Added Pin To Net: NetName=PA2/USART0_TX Pin=P3-3
+Added Pin To Net: NetName=PA1/USART0_RX Pin=P3-4
+Added Member To Class: ClassName=KL26Z_BOARD Member=Component P20 Pin header 6
+Added Room: Name=KL26Z_BOARD

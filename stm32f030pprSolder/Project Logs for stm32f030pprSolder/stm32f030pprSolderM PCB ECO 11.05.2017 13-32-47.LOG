@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=T+ Pin=P3-1
+Removed Pin From Net: NetName=T- Pin=P3-2
+Change Component Footprint: Designator=R24 Old Footprint=0603 New Footprint=0805_R
+Added Pin To Net: NetName=T- Pin=P3-1
+Added Pin To Net: NetName=T+ Pin=P3-2

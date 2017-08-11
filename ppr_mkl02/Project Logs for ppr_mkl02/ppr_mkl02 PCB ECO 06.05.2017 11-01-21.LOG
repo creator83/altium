@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=A Pin=U2-25
+Added Pin To Net: NetName=A Pin=U2-16
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R16 Res 10K

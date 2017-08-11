@@ -1,0 +1,8 @@
+Added Component: Designator=R28(0805_C)
+Added Component: Designator=R29(0805_C)
+Added Pin To Net: NetName=DIG3 Pin=R28-1
+Added Pin To Net: NetName=B Pin=R29-1
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R16 Res 10K
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R28 Res 0 Ohm
+Added Member To Class: ClassName=ppr_mkl02 Member=Component R29 Res 0 Ohm
+Added Room: Name=ppr_mkl02

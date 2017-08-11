@@ -1,0 +1,7 @@
+Remove Pin=P1-8 From Net=8
+Remove Pin=P1-9 From Net=9
+Remove Pin=P1-10 From Net=10
+Remove Pin=P1-11 From Net=11
+Remove Pin=P1-12 From Net=12
+Remove Pin=P1-13 From Net=13
+Change Component Footprint: Designator=P4 Old Footprint=Pin_header13_2_2.54 New Footprint=Pin_header13_2_2.54_S

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=VCC Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=VCC Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=VCC Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VCC Pin=C9-2
+Removed Member From Class: ClassName=stm32f030pprSolderM Member=C6
+Removed Member From Class: ClassName=stm32f030pprSolderM Member=C7
+Removed Member From Class: ClassName=stm32f030pprSolderM Member=C8
+Removed Member From Class: ClassName=stm32f030pprSolderM Member=C9
+Added Room: Name=stm32f030pprSolderM

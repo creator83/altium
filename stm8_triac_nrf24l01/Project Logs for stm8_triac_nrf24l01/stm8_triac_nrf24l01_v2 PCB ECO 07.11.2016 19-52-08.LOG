@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=IRQ Pin=U1-10
+Added Pin To Net: NetName=IRQ Pin=U1-11
+Added Room: Name=stm8_triac_nrf24l01

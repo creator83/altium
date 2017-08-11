@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=RESET Pin=P2-3
+Added Component: Designator=C6(0603_C)
+Added Component: Designator=R18(0603_C)
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=RESET Pin=C6-2
+Added Pin To Net: NetName=RESET Pin=R18-1
+Added Pin To Net: NetName=VCC Pin=R18-2
+Added Member To Class: ClassName=stm32f030pprSolderM Member=Component C6 Cap 0.1uf
+Added Member To Class: ClassName=stm32f030pprSolderM Member=Component R18 Res 10K
+Added Room: Name=stm32f030pprSolderM

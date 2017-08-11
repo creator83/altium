@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=BUTTONBOILER Pin=U5-12
+Added Pin To Net: NetName=BUTTONBOILER Pin=U5-14

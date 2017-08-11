@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=VR1-4
+Added Component: Designator=R20(1206)
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetQ5_2 Pin=R20-2
+Added Room: Name=Sheet1

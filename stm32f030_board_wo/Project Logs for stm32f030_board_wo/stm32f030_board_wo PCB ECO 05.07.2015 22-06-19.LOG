@@ -1,0 +1,12 @@
+Added Component: Designator=P4(Pin_header8_2.54)
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=PF1 Pin=P4-2
+Added Pin To Net: NetName=PF0 Pin=P4-3
+Added Pin To Net: NetName=PB1 Pin=P4-4
+Added Pin To Net: NetName=SWCLK Pin=P4-5
+Added Pin To Net: NetName=SWDIO Pin=P4-6
+Added Pin To Net: NetName=PA10 Pin=P4-7
+Added Pin To Net: NetName=PA9 Pin=P4-8
+Added Pin To Net: NetName=PB1 Pin=U1-14
+Added Member To Class: ClassName=stm32f030_board_wo Member=Component P4 Pin header 8
+Added Room: Name=stm32f030_board_wo

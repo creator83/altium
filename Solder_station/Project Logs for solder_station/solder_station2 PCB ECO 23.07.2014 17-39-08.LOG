@@ -1,0 +1,10 @@
+Added Component: Designator=D1(LED 5M)
+Added Component: Designator=R6(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetP2_3 Pin=R6-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R6-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED DIP
+Added Member To Class: ClassName=Sheet1 Member=Component D5 Diode 1N5408
+Added Member To Class: ClassName=Sheet1 Member=Component R6 Res 220

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P2 Old Footprint=PHOENIX_1715734 New Footprint=PIN_HEADER_2_5.08
+Change Component Comment : Designator=P2 Old Comment=Pin header 3 New Comment=Pin header 2
+Added Room: Name=power_supply

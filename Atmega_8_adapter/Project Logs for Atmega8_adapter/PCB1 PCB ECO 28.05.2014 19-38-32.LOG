@@ -1,0 +1,37 @@
+Added Component: Designator=P?(HDR1X16)
+Added Component: Designator=P?(HDR1X16)
+Added Component: Designator=U?(32A_N)
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_4 Pin=P?-4
+Added Pin To Net: NetName=NetP?_5 Pin=P?-5
+Added Pin To Net: NetName=NetP?_6 Pin=P?-6
+Added Pin To Net: NetName=NetP?_7 Pin=P?-7
+Added Pin To Net: NetName=NetP?_8 Pin=P?-8
+Added Pin To Net: NetName=NetP?_9 Pin=P?-9
+Added Pin To Net: NetName=NetP?_10 Pin=P?-10
+Added Pin To Net: NetName=NetP?_11 Pin=P?-11
+Added Pin To Net: NetName=NetP?_12 Pin=P?-12
+Added Pin To Net: NetName=NetP?_13 Pin=P?-13
+Added Pin To Net: NetName=NetP?_14 Pin=P?-14
+Added Pin To Net: NetName=NetP?_15 Pin=P?-15
+Added Pin To Net: NetName=NetP?_16 Pin=P?-16
+Added Pin To Net: NetName=NetP?_16 Pin=U?-17
+Added Pin To Net: NetName=NetP?_15 Pin=U?-18
+Added Pin To Net: NetName=NetP?_14 Pin=U?-19
+Added Pin To Net: NetName=NetP?_13 Pin=U?-20
+Added Pin To Net: NetName=NetP?_12 Pin=U?-21
+Added Pin To Net: NetName=NetP?_11 Pin=U?-22
+Added Pin To Net: NetName=NetP?_10 Pin=U?-23
+Added Pin To Net: NetName=NetP?_9 Pin=U?-24
+Added Pin To Net: NetName=NetP?_8 Pin=U?-25
+Added Pin To Net: NetName=NetP?_7 Pin=U?-26
+Added Pin To Net: NetName=NetP?_6 Pin=U?-27
+Added Pin To Net: NetName=NetP?_5 Pin=U?-28
+Added Pin To Net: NetName=NetP?_4 Pin=U?-29
+Added Pin To Net: NetName=NetP?_3 Pin=U?-30
+Added Pin To Net: NetName=NetP?_2 Pin=U?-31
+Added Pin To Net: NetName=NetP?_1 Pin=U?-32
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 16
+Added Member To Class: ClassName=Sheet1 Member=Component U? ATmega8A-AU

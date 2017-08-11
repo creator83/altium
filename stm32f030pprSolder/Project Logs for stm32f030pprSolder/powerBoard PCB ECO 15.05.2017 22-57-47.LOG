@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=N Pin=T1-1
+Removed Pin From Net: NetName=FASE Pin=T1-2
+Added Pin To Net: NetName=FASE Pin=T1-1
+Added Pin To Net: NetName=N Pin=T1-2

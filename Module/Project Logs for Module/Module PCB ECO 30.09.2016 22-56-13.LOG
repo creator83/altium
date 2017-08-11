@@ -1,0 +1,6 @@
+Added Component: Designator=P4(PIN_HEADER_1P_2.54_M)
+Added Pin To Net: NetName=FUN Pin=P4-1
+Added Pin To Net: NetName=FUN Pin=R1-1
+Added Net: Name=FUN
+Added Member To Class: ClassName=Module Member=Component P4 Pin header 1
+Added Room: Name=Module

@@ -1,0 +1,16 @@
+Added Component: Designator=R4(1206)
+Added Component: Designator=Y1(Cristal 32kHz 2*7)
+Added Pin To Net: NetName=GND Pin=Y1-3
+Added Pin To Net: NetName=OSC1 Pin=C3-1
+Added Pin To Net: NetName=OSC1 Pin=R4-2
+Added Pin To Net: NetName=OSC1 Pin=U1-8
+Added Pin To Net: NetName=OSC1 Pin=Y1-1
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=C4-2
+Added Pin To Net: NetName=OSC2 Pin=R4-1
+Added Pin To Net: NetName=OSC2 Pin=U1-7
+Added Pin To Net: NetName=OSC2 Pin=Y1-2
+Added Net: Name=OSC2
+Added Member To Class: ClassName=mkl05_dev Member=Component R4 Res 1M
+Added Member To Class: ClassName=mkl05_dev Member=Component Y1 Crystal Oscillator 32kHz
+Added Room: Name=mkl05_dev

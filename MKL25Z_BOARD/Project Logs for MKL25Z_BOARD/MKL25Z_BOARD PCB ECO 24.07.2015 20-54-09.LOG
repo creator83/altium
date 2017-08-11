@@ -1,0 +1,11 @@
+Added Component: Designator=P6(Pin_header8_2.54)
+Added Pin To Net: NetName=PTB23 Pin=P6-1
+Added Pin To Net: NetName=PTB22 Pin=P6-2
+Added Pin To Net: NetName=PTB21 Pin=P6-3
+Added Pin To Net: NetName=PTB20 Pin=P6-4
+Added Pin To Net: NetName=PTB19 Pin=P6-5
+Added Pin To Net: NetName=PTB18 Pin=P6-6
+Added Pin To Net: NetName=PTB17 Pin=P6-7
+Added Pin To Net: NetName=PTB16 Pin=P6-8
+Added Member To Class: ClassName=MKL25Z_BOARD Member=Component P6 Pin header 8
+Added Room: Name=MKL25Z_BOARD

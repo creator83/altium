@@ -1,0 +1,5 @@
+Remove Pin=P5-2 From Net=CS
+Remove Pin=P5-3 From Net=SCK
+Remove Pin=P5-4 From Net=DO
+Remove Pin=P5-5 From Net=+5V
+Change Component Footprint: Designator=U1 Old Footprint=SOIC-SN8_N New Footprint=PDIP300-P8

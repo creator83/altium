@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=T1-4
+Removed Member From Class: ClassName=hummiditySensor Member=D3
+Removed Member From Class: ClassName=hummiditySensor Member=T1
+Change Component Footprint: Designator=C4 Old Footprint=0603_C New Footprint=0805_C
+Added Component: Designator=C5(0603_C)
+Added Pin To Net: NetName=RESET Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Member To Class: ClassName=hummiditySensor Member=Component C5 Cap 0.1uf
+Added Room: Name=hummiditySensor

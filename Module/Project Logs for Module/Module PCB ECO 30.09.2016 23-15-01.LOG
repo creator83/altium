@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FUN Pin=P4-1
+Added Component: Designator=P4(Pin_header_2P_2.54_M)
+Added Pin To Net: NetName=FUN Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Room: Name=Module

@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=DS1 Old Footprint=4digit_seg_led 0.56" New Footprint=4digit_seg_led
+Change Component Footprint: Designator=K1 Old Footprint=Relay Songle SPDT New Footprint=Songle SPDT
