@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RESET Pin=S1-1
+Removed Pin From Net: NetName=RESET Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Member From Class: ClassName=pressure_Controller_stm8 Member=S1
+Added Room: Name=pressure_Controller_stm8

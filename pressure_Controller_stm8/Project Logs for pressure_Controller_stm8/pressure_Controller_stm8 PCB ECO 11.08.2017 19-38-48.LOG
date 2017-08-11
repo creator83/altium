@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P1 Old Footprint=Pin_header_3P_2.54_M New Footprint=Pin_header_4P_2.54_M
+Change Component Comment : Designator=P1 Old Comment=Pin header 3 New Comment=Pin header 4
+Added Pin To Net: NetName=GND Pin=P1-4
